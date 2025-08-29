@@ -1,12 +1,43 @@
 [
-  { "name": "Pizza", "rating": 4.8 },
-  { "name": "Burger", "rating": 4.2 },
-  { "name": "Sushi", "rating": 4.7 },
-  { "name": "Ice Cream", "rating": 4.6 },
-  { "name": "Salad", "rating": 3.5 },
-  { "name": "Hot Dog", "rating": 3.9 },
-  { "name": "Tofu", "rating": 3.2 },
-  { "name": "Ramen", "rating": 4.5 },
-  { "name": "Steak", "rating": 4.9 },
-  { "name": "Pasta", "rating": 4.4 }
+  { "name": "Big Mac Sausage", 
+    "rating": 4.8 
+    },
+
+  { "name": "Burger", 
+    "rating": 4.2 
+    },
+
+  { "name": "Sushi", 
+    "rating": 4.7 
+    },
+
+  { "name": "Ice Cream", 
+    "rating": 4.6 
+    },
+
+  { "name": "Salad",   
+    "rating": 3.5 
+    },
+
+  { "name": "Hot Dog", 
+    "rating": 3.9 
+    },
+
+  { "name": "Tofu", 
+    "rating": 3.2 
+    },
+
+  { "name": "Ramen", 
+    "rating": 4.5 
+    },
+
+  { "name": "Steak", 
+    "rating": 4.9 
+    },
+
+  { "name": "Pasta", 
+    "rating": 4.4 
+    }
 ]
+
+
