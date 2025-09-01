@@ -2,7 +2,7 @@ let foods = [];
 let currentRound = 0;
 let score = 0;
 const totalRounds = 10;
-let roundLocked = false; // prevents multiple clicks
+let roundLocked = false;
 
 Promise.all([
   fetch("sausages.json")
@@ -39,31 +39,34 @@ function renderChoices(food1, food2) {
   const gameDiv = document.getElementById("game");
 
   gameDiv.classList.remove("fade-in");
-  void gameDiv.offsetWidth; // trigger reflow to restart animation
+  void gameDiv.offsetWidth;
 
   gameDiv.innerHTML = `
     <div class="food-container">
       <h3>${food1.name}</h3>
-      <div class="image-wrapper" onclick="choose(this, ${food1.rank}, ${food2.rank})">
-        <img src="${food1.source}/${food1.id}.png" onerror="this.src='images/0.png'">
+      <div class="image-wrapper">
+        <img src="${food1.source}/${food1.id}.png" onerror="this.src='default/0.png'">
         <span class="score hidden">${food1.rank}</span>
       </div>
+      <button onclick="choose(${food1.rank}, ${food2.rank})">Choose</button>
     </div>
     <div class="food-container">
       <h3>${food2.name}</h3>
-      <div class="image-wrapper" onclick="choose(this, ${food2.rank}, ${food1.rank})">
-        <img src="${food2.source}/${food2.id}.png" onerror="this.src='images/0.png'">
+      <div class="image-wrapper">
+        <img src="${food2.source}/${food2.id}.png" onerror="this.src='default/0.png'">
         <span class="score hidden">${food2.rank}</span>
       </div>
+      <button onclick="choose(${food2.rank}, ${food1.rank})">Choose</button>
     </div>
     <p>Round ${currentRound + 1} of ${totalRounds}</p>
     <p>Score: ${score}</p>
+    <button id="next-btn" class="hidden" onclick="nextRound()">Next Round</button>
   `;
 
   gameDiv.classList.add("fade-in");
 }
 
-function choose(clickedEl, selectedRank, otherRank) {
+function choose(selectedRank, otherRank) {
   if (roundLocked) return;
   roundLocked = true;
 
@@ -75,10 +78,14 @@ function choose(clickedEl, selectedRank, otherRank) {
   }
   currentRound++;
 
-  setTimeout(() => {
-    startRound();
-  }, 1500); // wait so player can see the result
+  // show next button
+  document.getElementById("next-btn").classList.remove("hidden");
 }
+
+function nextRound() {
+  startRound();
+}
+
 
 
 
