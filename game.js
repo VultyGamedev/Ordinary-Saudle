@@ -26,6 +26,18 @@ function getNumericRating(food) {
   if (food.rating === "disqualified") {
     return -0.5; // treat disqualified sausages as less than 0 but more than -1
   }
+  if (food.rating === "Failure") {
+    return -0.5; // also treat failures as worse than 0
+  }
+  if (food.rating === "NO!") {
+    return -0.5;
+  }
+  if (food.rating === "No Rating") {
+    return -0.5;
+  }
+  if (food.rating === "YES!") {
+    return 100.0;
+  }
   return Number(food.rating);
 }
 
@@ -81,18 +93,21 @@ function startRound() {
   });
 }
 
-// ---- Load sausages.json then start game ----
-fetch("sausages.json")
-  .then(response => response.json())
-  .then(data => {
-    foods = data;
-    dailyPairs = generateDailyPairs();
-    startRound();
-  })
-  .catch(err => {
-    console.error("Failed to load sausages.json", err);
-    document.getElementById("result").textContent = "Error loading food data.";
-  });
+// ---- Load the food jsons then start game ----
+Promise.all([
+  fetch("sausages.json").then(res => res.json()),
+  fetch("nses.json").then(res => res.json())
+])
+.then(([sausagesData, nsesData]) => {
+  foods = [...sausagesData, ...nsesData];
+  dailyPairs = generateDailyPairs();
+  startRound();
+})
+.catch(err => {
+  console.error("Failed to load JSON files", err);
+  document.getElementById("result").textContent = "Error loading food data.";
+});
+
 
 
 
