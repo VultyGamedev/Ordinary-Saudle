@@ -71,28 +71,10 @@ function startRound() {
   document.getElementById("result").textContent = `Round ${round + 1} of 10`;
 
   [f1, f2].forEach(food => {
-    const wrapper = document.createElement("div");
-    wrapper.style.display = "inline-block";
-    wrapper.style.margin = "20px";
-    wrapper.style.textAlign = "center";
-
-    // Food name
-    const label = document.createElement("div");
-    label.textContent = food.name;
-    label.style.marginBottom = "10px";
-    wrapper.appendChild(label);
-
-    // Food image (path depends on source)
-    const img = document.createElement("img");
-    img.src = `${food.source}/${food.image}`;
-    img.alt = food.name;
-    img.style.width = "200px";
-    img.style.height = "auto";
-    wrapper.appendChild(img);
-
-    // Clickable area (image acts like button)
-    img.style.cursor = "pointer";
-    img.onclick = () => {
+    const btn = document.createElement("button");
+    btn.className = "choice";
+    btn.textContent = food.name;
+    btn.onclick = () => {
       const f1Rating = getNumericRating(f1);
       const f2Rating = getNumericRating(f2);
 
@@ -107,11 +89,9 @@ function startRound() {
       round++;
       setTimeout(startRound, 1500);
     };
-
-    container.appendChild(wrapper);
+    container.appendChild(btn);
   });
 }
-
 
 // ---- Load the food jsons then start game ----
 Promise.all([
