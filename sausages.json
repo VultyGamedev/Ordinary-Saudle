@@ -5,7 +5,7 @@
     "rating": 3.0,
     "date": "January 28th, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/1.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "rating": 2.0,
     "date": "Febuary 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/2.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "rating": 5.0,
     "date": "Febuary 10th, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/3.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "rating": 0.0,
     "date": "Febuary 18th, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/4.png"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "rating": 1.0,
     "date": "Febuary 25th, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/5.png"
   },
   {
     "id": 6,
@@ -45,1551 +45,1551 @@
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/6.png"
   },
   {
     "id": 7,
-    "name": "Vanilla Cake",
+    "name": "Vanilla Cake Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/7.png"
   },
   {
     "id": 8,
-    "name": "St Patrick's Day Corned Beef and Cabbage",
+    "name": "St Patrick's Day Corned Beef and Cabbage Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/8.png"
   },
   {
     "id": 9,
-    "name": "Vienna Sausage",
+    "name": "Vienna Sausages Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/9.png"
   },
   {
     "id": 10,
-    "name": "Panda Express Orange Chicken and Chow Mein",
+    "name": "Panda Express Orange Chicken and Chow Mein Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/10.png"
   },
   {
     "id": 11,
-    "name": "Passover",
+    "name": "Passover Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/11.png"
   },
   {
     "id": 12,
-    "name": "Easter Surprise",
+    "name": "Easter Surprise Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/12.png"
   },
   {
     "id": 13,
-    "name": "Arby's Big Beef and Cheddar",
+    "name": "Arby's Big Beef and Cheddar Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/13.png"
   },
   {
     "id": 14,
-    "name": "Fruit Salad",
+    "name": "Fruit Salad Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/14.png"
   },
   {
     "id": 15,
-    "name": "McDonald's Chicken McNugget Barbecue",
+    "name": "McDonald's Chicken McNugget Barbecue Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/15.png"
   },
   {
     "id": 16,
-    "name": "McDonald's Chicken McNugget Honey Mustard",
+    "name": "McDonald's Chicken McNugget Honey Mustard Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/16.png"
   },
   {
     "id": 17,
-    "name": "Bloomin Onion",
+    "name": "Bloomin Onion Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/17.png"
   },
   {
     "id": 18,
-    "name": "MRE Menu 7: Beef Brisket",
+    "name": "MRE Menu 7: Beef Brisket Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/18.png"
   },
   {
     "id": 19,
-    "name": "Egg Roll",
+    "name": "Egg Roll Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/19.png"
   },
   {
     "id": 20,
-    "name": "Lobster",
+    "name": "Lobster Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/20.png"
   },
   {
     "id": 21,
-    "name": "Water",
+    "name": "Water Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/21.png"
   },
   {
     "id": 22,
-    "name": "Pickle (Whole)",
+    "name": "Whole Pickle Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/22.png"
   },
   {
     "id": 23,
-    "name": "Pickle (Relish)",
+    "name": "Pickle Relish Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/23.png"
   },
   {
     "id": 24,
-    "name": "Pickle and Pork",
+    "name": "Pickle and Pork Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/24.png"
   },
   {
     "id": 25,
-    "name": "Chipotle Steak Burrito",
+    "name": "Chipotle Steak Burrito Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/25.png"
   },
   {
     "id": 26,
-    "name": "Denny's Original Grand Slam",
+    "name": "Denny's Original Grand Slam Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/26.png"
   },
   {
     "id": 27,
-    "name": "Literally Just Eggs",
+    "name": "Literally Just Eggs Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/27.png"
   },
   {
     "id": 28,
-    "name": "Beef Heart",
+    "name": "Beef Heart Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/28.png"
   },
   {
     "id": 29,
-    "name": "Strawberry",
+    "name": "Strawberry Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/29.png"
   },
   {
     "id": 30,
-    "name": "MRE: Rib-shaped BBQ Patties",
+    "name": "Rib-shaped BBQ Patties MRE Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/30.png"
   },
   {
     "id": 31,
-    "name": "MRE: White Chicken Chunks",
+    "name": "White Chicken Chunks MRE Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/31.png"
   },
   {
     "id": 32,
-    "name": "Marie Calendar's Chicken Pot Pie",
+    "name": "Marie Calendar's Chicken Pot Pie Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/32.png"
   },
   {
     "id": 33,
-    "name": "Hot Dog",
+    "name": "Hot Dog Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/33.png"
   },
   {
     "id": 34,
-    "name": "An Entire Fish",
+    "name": "An Entire Fish Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/34.png"
   },
   {
     "id": 35,
-    "name": "Candy",
+    "name": "Candy Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/35.png"
   },
   {
     "id": 36,
-    "name": "Panda Express Orange Chicken Redux",
+    "name": "Panda Express Orange Chicken Sausage Redux",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/36.png"
   },
   {
     "id": 37,
-    "name": "Panda Express Orange Chicken and Honeynut Shrimp",
+    "name": "Panda Express Orange Chicken and Honeynut Shrimp Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/37.png"
   },
   {
     "id": 38,
-    "name": "Panda Express Honeynut Shrimp",
+    "name": "Panda Express Honeynut Shrimp Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/38.png"
   },
   {
     "id": 39,
-    "name": "Ice",
+    "name": "Ice Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/39.png"
   },
   {
     "id": 40,
-    "name": "Little Caesars $5 Hot-N-Ready Pepperoni Pizza",
+    "name": "Little Caesars $5 Hot-N-Ready Pepperoni Pizza Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/40.png"
   },
   {
     "id": 41,
-    "name": "New England Clam Chowder",
+    "name": "New England Clam Chowder Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/41.png"
   },
   {
     "id": 42,
-    "name": "Chicken Tikka Masala",
+    "name": "Chicken Tikka Masala Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/42.png"
   },
   {
     "id": 43,
-    "name": "Cooked Bacon",
+    "name": "Cooked Bacon Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/43.png"
   },
   {
     "id": 44,
-    "name": "Raw Bacon",
+    "name": "Raw Bacon Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/44.png"
   },
   {
     "id": 45,
-    "name": "Air",
+    "name": "Air Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/45.png"
   },
   {
     "id": 46,
-    "name": "Subway Marinara Meatball Sub",
+    "name": "Subway Marinara Meatball Sub Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/46.png"
   },
   {
     "id": 47,
-    "name": "Peanut Butter and Jelly Sandwich",
+    "name": "Peanut Butter and Jelly Sandwich Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/47.png"
   },
   {
     "id": 48,
-    "name": "Grilled Ribeye Steak",
+    "name": "Grilled Ribeye Steak Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/48.png"
   },
   {
     "id": 49,
-    "name": "Ice Cream Sandwich",
+    "name": "Ice Cream Sandwich Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/49.png"
   },
   {
     "id": 50,
-    "name": "McDonald's Filet-O-Fish",
+    "name": "McDonald's Filet-O-Fish Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/50.png"
   },
   {
     "id": 51,
-    "name": "White Castle Cheeseburger Slider",
+    "name": "White Castle Cheeseburger Slider Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/51.png"
   },
   {
     "id": 52,
-    "name": "Hungry-Man Salisbury Steak",
+    "name": "Hungry-Man Salisbury Steak Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/52.png"
   },
   {
     "id": 53,
-    "name": "Brick of Extra Sharp Cheddar Cheese",
+    "name": "Brick of Extra Sharp Cheddar Cheese Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/53.png"
   },
   {
     "id": 54,
-    "name": "Colby and Monterey Jack Cheese Sticks",
+    "name": "Colby and Monterey Jack Cheese Sticks Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/54.png"
   },
   {
     "id": 55,
-    "name": "Chili",
+    "name": "Chili Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/55.png"
   },
   {
     "id": 56,
-    "name": "Mixed Nuts",
+    "name": "Mixed Nuts Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/56.png"
   },
   {
     "id": 57,
-    "name": "Red Lobster Coconut Shrimp",
+    "name": "Red Lobster Coconut Shrimp Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/57.png"
   },
   {
     "id": 58,
-    "name": "Red Lobster Cheddar Bay Biscuit",
+    "name": "Red Lobster Cheddar Bay Biscuit Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/58.png"
   },
   {
     "id": 59,
-    "name": "McDonald's Travis Scott Meal",
+    "name": "McDonald's Travis Scott Meal Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/59.png"
   },
   {
     "id": 60,
-    "name": "Raw Meatloaf",
+    "name": "Raw Meatloaf Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/60.png"
   },
   {
     "id": 61,
-    "name": "Cooked Meatloaf",
+    "name": "Cooked Meatloaf Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/61.png"
   },
   {
     "id": 62,
-    "name": "Slim Jims",
+    "name": "Slim Jims Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/62.png"
   },
   {
     "id": 63,
-    "name": "Fried Rice",
+    "name": "Fried Rice Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/63.png"
   },
   {
     "id": 64,
-    "name": "Key Lime Pie",
+    "name": "Key Lime Pie Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/64.png"
   },
   {
     "id": 65,
-    "name": "Pork and Key Lime Pie",
+    "name": "Pork and Key Lime Pie Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/65.png"
   },
   {
     "id": 66,
-    "name": "Fire (Fireball Whisky and Pork)",
+    "name": "Fireball Whisky and Pork Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/66.png"
   },
   {
     "id": 67,
-    "name": "Hamburger Helper Cheeseburger Macaroni",
+    "name": "Hamburger Helper Cheeseburger Macaroni Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/67.png"
   },
   {
     "id": 68,
-    "name": "Pumpkin",
+    "name": "Pumpkin Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/68.png"
   },
   {
     "id": 69,
-    "name": "Bull Penis and Testicles",
+    "name": "Bull Penis and Testicles Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/69.png"
   },
   {
     "id": 70,
-    "name": "Candy Corn",
+    "name": "Candy Corn Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/70.png"
   },
   {
     "id": 71,
-    "name": "Baby Back Ribs",
+    "name": "Baby Back Ribs Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/71.png"
   },
   {
     "id": 72,
-    "name": "Candy Apple and Caramel Apple",
+    "name": "Candy Apple and Caramel Apple Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/72.png"
   },
   {
     "id": 73,
-    "name": "Brain",
+    "name": "Brain Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/73.png"
   },
   {
     "id": 74,
-    "name": "Panera Autumn Squash and Bread Bowl",
+    "name": "Panera Autumn Squash and Bread Bowl Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/74.png"
   },
   {
     "id": 75,
-    "name": "Beyond Sausage",
+    "name": "Beyond Meat Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/75.png"
   },
   {
     "id": 76,
-    "name": "Blood",
+    "name": "Blood Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/76.png"
   },
   {
     "id": 77,
-    "name": "A Bag of Halloween Candy",
+    "name": "A Bag of Halloween Candy Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/77.png"
   },
   {
     "id": 78,
-    "name": "Pumpkin Pie",
+    "name": "Pumpkin Pie Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/78.png"
   },
   {
     "id": 79,
-    "name": "Pad Thai",
+    "name": "Pad Thai Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 80,
-    "name": "Reuben Sandwich",
+    "name": "Reuben Sandwich Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 81,
-    "name": "Oil",
+    "name": "Oil Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 82,
-    "name": "Pu Pu Platter",
+    "name": "Pu Pu Platter Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 83,
-    "name": "Big Ol' Pepperoni Stick",
+    "name": "Big Ol' Pepperoni Stick Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 84,
-    "name": "Butter",
+    "name": "Butter Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 85,
-    "name": "Surf and Turf (Beef Filet and Scallops)",
+    "name": "Surf and Turf Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
-    "description": "",
-    "image": ""
+    "description": "Beef Filet and Scallops",
+    "image": "images/sausages/.png"
   },
   {
     "id": 86,
-    "name": "Corn Dog",
+    "name": "Corn Dog Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 87,
-    "name": "MRE: Asian Style Beef Strips",
+    "name": "Asian Style Beef Strips MRE Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 88,
-    "name": "Thanksgiving Meal",
+    "name": "Thanksgiving Meal Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 89,
-    "name": "Chicken Cordon Bleu",
+    "name": "Chicken Cordon Bleu Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 90,
-    "name": "Jalapeno Poppers",
+    "name": "Jalapeno Poppers Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 91,
-    "name": "Publix Chicken Tinder Sub",
+    "name": "Publix Chicken Tinder Sub Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 92,
-    "name": "Baked Beans",
+    "name": "Baked Beans Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 93,
-    "name": "McDonald's McRib",
+    "name": "McDonald's McRib Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 94,
-    "name": "Wendy's Baconator",
+    "name": "Wendy's Baconator Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 95,
-    "name": "Reverse Hot Dog",
+    "name": "Reverse Hot Dog Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 96,
-    "name": "Shrimp and Vegetable Tempura",
+    "name": "Shrimp and Vegetable Tempura Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 97,
-    "name": "Popeyes Spicy Chicken Sandwich",
+    "name": "Popeyes Spicy Chicken Sandwich Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 98,
-    "name": "Gingerbread House",
+    "name": "Gingerbread House Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 99,
-    "name": "Venison",
+    "name": "Venison Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 100,
-    "name": "Beef Wellington",
+    "name": "Beef Wellington Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 101,
-    "name": "Sausage Casing",
+    "name": "Sausage Casing Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 102,
-    "name": "Caesar Salad",
+    "name": "Caesar Salad Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 103,
-    "name": "Shrimp Cocktail",
+    "name": "Shrimp Cocktail Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 104,
-    "name": "Mayonaise",
+    "name": "Mayonaise Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 105,
-    "name": "Chicago-Style Deep Dish Pizza",
+    "name": "Chicago-Style Deep Dish Pizza Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 106,
-    "name": "Gyro",
+    "name": "Gyro Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 107,
-    "name": "Onion",
+    "name": "Onion Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 108,
-    "name": "BBQ Beef Brisket",
+    "name": "BBQ Beef Brisket Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 109,
-    "name": "Burger King's Whopper",
+    "name": "Burger King's Whopper Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 110,
-    "name": "Burger King's Impossible Whopper",
+    "name": "Burger King's Impossible Whopper Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 111,
-    "name": "Banana",
+    "name": "Banana Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 112,
-    "name": "Chef Boyardee Beef Ravioli",
+    "name": "Chef Boyardee Beef Ravioli Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 113,
-    "name": "Sonic Footlong Chili Dog",
+    "name": "Sonic Footlong Chili Dog Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 114,
-    "name": "Cinnamon Roll (Ground)",
+    "name": "Cinnamon Roll (Ground) Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 115,
-    "name": "Cinnamon Roll (Baked)",
+    "name": "Cinnamon Roll (Baked) Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 116,
-    "name": "Cinnamon Roll (Raw)",
+    "name": "Cinnamon Roll (Raw) Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 117,
-    "name": "Shepherd's Pie",
+    "name": "Shepherd's Pie Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 118,
-    "name": "Alligator",
+    "name": "Alligator Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 119,
-    "name": "Oreo",
+    "name": "Oreo Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 120,
-    "name": "Full English Breakfast",
+    "name": "Full English Breakfast Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 121,
-    "name": "Spam",
+    "name": "Spam Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 122,
-    "name": "Garlic",
+    "name": "Garlic Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 123,
-    "name": "Lasagna",
+    "name": "Lasagna Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 124,
-    "name": "Panda Express Broccoli Beef",
+    "name": "Panda Express Broccoli Beef Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 125,
-    "name": "Poptart",
+    "name": "Poptart Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 126,
-    "name": "Tuna Salad Sandwich",
+    "name": "Tuna Salad Sandwich Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 127,
-    "name": "Mac and Cheese",
+    "name": "Mac and Cheese Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 128,
-    "name": "McDonald's Spicy McNuggets",
+    "name": "McDonald's Spicy McNuggets Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 129,
-    "name": "Nutella",
+    "name": "Nutella Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 130,
-    "name": "Snow Crab Legs",
+    "name": "Snow Crab Legs Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 131,
-    "name": "Fully Loaded Baked Potato",
+    "name": "Fully Loaded Baked Potato Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 132,
-    "name": "Cereal",
+    "name": "Cereal Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 133,
-    "name": "Jambalaya",
+    "name": "Jambalaya Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 134,
-    "name": "Go-Gurt",
+    "name": "Go-Gurt Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 135,
-    "name": "Spicy Kimchi and Pork",
+    "name": "Spicy Kimchi and Pork Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 136,
-    "name": "Sushi Redux",
+    "name": "Sushi Sausage Redux",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 137,
-    "name": "Thick Water",
+    "name": "Thick Water Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 138,
-    "name": "Taco Bell Crunchwrap Supreme",
+    "name": "Taco Bell Crunchwrap Supreme Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 139,
-    "name": "Apples and Potatoes",
+    "name": "Apples and Potatoes Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 140,
-    "name": "Mrs. Butterworth's Original Syrup",
+    "name": "Mrs. Butterworth's Original Syrup Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 141,
-    "name": "Japanese A5 Wagyu Beef (Cooked)",
+    "name": "Japanese A5 Wagyu Beef Sausage (Cooked)",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 142,
-    "name": "Japanese A5 Wagyu Beef (Raw)",
+    "name": "Japanese A5 Wagyu Beef Sausage (Raw)",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 143,
-    "name": "Eggs Medley (With Hint of Chemicals)",
+    "name": "Eggs Medley Sausage (With Hint of Chemicals)",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 144,
-    "name": "Donuts",
+    "name": "Donuts Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 145,
-    "name": "Roast Duck with Orange Sauce",
+    "name": "Roast Duck with Orange Sauce Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 146,
-    "name": "Beef Jerky",
+    "name": "Beef Jerky Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 147,
-    "name": "Jello",
+    "name": "Jello Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 148,
-    "name": "Ratatouille",
+    "name": "Ratatouille Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 149,
-    "name": "Chick-Fil-A Spicy Chicken Sandwich",
+    "name": "Chick-Fil-A Spicy Chicken Sandwich Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 150,
-    "name": "Cheesecake",
+    "name": "Cheesecake Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 151,
-    "name": "Liver and Onions",
+    "name": "Liver and Onions Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 152,
-    "name": "Grilled Cheese and Tomato Soup",
+    "name": "Grilled Cheese and Tomato Soup Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 153,
-    "name": "Nachos Grande",
+    "name": "Nachos Grande Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 154,
-    "name": "Sweet Baby Ray's BBQ Sauce",
+    "name": "Sweet Baby Ray's BBQ Sauce Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 155,
-    "name": "Salmon Coulibiac",
+    "name": "Salmon Coulibiac Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 156,
-    "name": "Long John Silvers Fried Seafood Bonanza",
+    "name": "Long John Silvers Fried Seafood Bonanza Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 157,
-    "name": "Earth",
+    "name": "Earth Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 158,
-    "name": "IKEA Swedish Meatballs and Noodles",
+    "name": "IKEA Swedish Meatballs and Noodles Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 159,
-    "name": "Boston Market (Chicken, Cornbread, Corn, Potatoes)",
+    "name": "Boston Market Sausage (Chicken, Cornbread, Corn, Potatoes)",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 160,
-    "name": "Goldfish Crackers",
+    "name": "Goldfish Crackers Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 161,
-    "name": "Beef Bourguignon",
+    "name": "Beef Bourguignon Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 162,
-    "name": "Culver's Butterburger and Fried Cheese Curds",
+    "name": "Culver's Butterburger and Fried Cheese Curds Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 163,
-    "name": "Pizza Lunchables",
+    "name": "Pizza Lunchables Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 164,
-    "name": "Six Types of Johnsonville Sausages",
+    "name": "Six Types of Johnsonville Sausages Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 165,
-    "name": "McDonald's Bacon, Egg, and Cheese McGriddle",
+    "name": "McDonald's Bacon, Egg, and Cheese McGriddle Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 166,
-    "name": "Canned Sardines",
+    "name": "Canned Sardines Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 167,
-    "name": "Charred Cookout and Johnsonville Medley Sausages",
+    "name": "Charred Cookout and Johnsonville Medley Sausages Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 168,
-    "name": "Street Tongue Tacos",
+    "name": "Street Tongue Tacos Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 169,
-    "name": "Popped Popcorn",
+    "name": "Popped Popcorn Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 170,
-    "name": "Country Fried Steak",
+    "name": "Country Fried Steak Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 171,
-    "name": "Lamb Kebabs and Stuffed Grape Leaves",
+    "name": "Lamb Kebabs and Stuffed Grape Leaves Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 172,
-    "name": "Mountain Dew and Doritos",
+    "name": "Mountain Dew and Doritos Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 173,
-    "name": "Crab Cake",
+    "name": "Crab Cake Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 174,
-    "name": "Wawa Philly Cheesesteak",
+    "name": "Wawa Philly Cheesesteak Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 175,
-    "name": "S'mores",
+    "name": "S'mores Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 176,
-    "name": "Yak",
+    "name": "Yak Sausage",
     "rating": 6.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 177,
-    "name": "7-Eleven Foods",
+    "name": "7-Eleven Foods Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 178,
-    "name": "Cookie Dough",
+    "name": "Cookie Dough Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 179,
-    "name": "Stuffed Mushrooms",
+    "name": "Stuffed Mushrooms Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 180,
-    "name": "Healthy Choice Chicken Marsala",
+    "name": "Healthy Choice Chicken Marsala Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 181,
-    "name": "Lean Cuisine Chicken Marsala",
+    "name": "Lean Cuisine Chicken Marsala Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 182,
-    "name": "Salt",
+    "name": "Salt Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 183,
-    "name": "Stuffed Cabbage Rolls",
+    "name": "Stuffed Cabbage Rolls Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 184,
-    "name": "Deviled Eggs",
+    "name": "Deviled Eggs Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 185,
-    "name": "Cotton Candy",
+    "name": "Cotton Candy Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 186,
-    "name": "Chicken and Waffles",
+    "name": "Chicken and Waffles Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 187,
-    "name": "Just Sous Vide",
+    "name": "Just Sous Vide Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 188,
-    "name": "Sous Vide with Sear",
+    "name": "Sous Vide with Sear Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 189,
-    "name": "Boiled with Sear",
+    "name": "Boiled with Sear Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 190,
-    "name": "Habanero",
+    "name": "Habanero Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 191,
-    "name": "Guacamole",
+    "name": "Guacamole Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 192,
-    "name": "Fried Mozzarella Sticks",
+    "name": "Fried Mozzarella Sticks Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 193,
-    "name": "Cup of Noodles",
+    "name": "Cup of Noodles Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 194,
-    "name": "Lamb Chops",
+    "name": "Lamb Chops Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 195,
-    "name": "Meatballs with Bulgogi-Sauce",
+    "name": "Meatballs with Bulgogi-Sauce Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 196,
-    "name": "Wendy's Chili Cheese Fries",
+    "name": "Wendy's Chili Cheese Fries Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 197,
-    "name": "Fat",
+    "name": "Fat Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 198,
-    "name": "Lobster Mac n Cheese",
+    "name": "Lobster Mac n Cheese Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 199,
-    "name": "Olive Garden Tour of Italy",
+    "name": "Olive Garden Tour of Italy Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 200,
@@ -1597,15 +1597,15 @@
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 201,
-    "name": "Ostrich",
+    "name": "Ostrich Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 202,
@@ -1613,2597 +1613,2599 @@
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 203,
-    "name": "Gummy Bears",
+    "name": "Gummy Bears Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 204,
-    "name": "Pineapple Fried Rice",
+    "name": "Pineapple Fried Rice Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 205,
-    "name": "Fried Chicken Gizzards",
+    "name": "Fried Chicken Gizzards Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 206,
-    "name": "Black Pepper",
+    "name": "Black Pepper Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 207,
-    "name": "Eggs Benedict",
+    "name": "Eggs Benedict Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 208,
-    "name": "Skyline Chili 3 Way",
+    "name": "Skyline Chili 3 Way Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 209,
-    "name": "Raisin",
+    "name": "Raisin Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 210,
-    "name": "Fried Catfish",
+    "name": "Fried Catfish Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 211,
-    "name": "BLT",
+    "name": "BLT Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 212,
-    "name": "Skittles",
+    "name": "Skittles Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 213,
-    "name": "Scotch Egg",
+    "name": "Scotch Egg Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 214,
-    "name": "Steak and Potatoes",
+    "name": "Steak and Potatoes Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 215,
-    "name": "Toothpaste",
+    "name": "Toothpaste Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 216,
-    "name": "Hungarian Goulash",
+    "name": "Hungarian Goulash Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 217,
-    "name": "McDonald’s Land, Sea, and Air Burger",
+    "name": "McDonald’s Land, Sea, and Air Burger Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 218,
-    "name": "Potato Chips",
+    "name": "Potato Chips Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 219,
-    "name": "Ham",
+    "name": "Ham Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 220,
-    "name": "Salami",
+    "name": "Salami Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 221,
-    "name": "Turkey",
+    "name": "Turkey Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 222,
-    "name": "Bologna",
+    "name": "Bologna Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 223,
-    "name": "Crispy Chicken Sandwich Taco",
+    "name": "Crispy Chicken Sandwich Taco Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 224,
-    "name": "Peanut butter",
+    "name": "Peanut butter Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 225,
-    "name": "Braised Beef Short Ribs",
+    "name": "Braised Beef Short Ribs Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 226,
-    "name": "2x Spicy Noodle",
+    "name": "2x Spicy Noodle Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 227,
-    "name": "Lucky Charms Marshmallows",
+    "name": "Lucky Charms Marshmallows Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 228,
-    "name": "Chicken a la King",
+    "name": "Chicken a la King Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 229,
-    "name": "Chicken Wings",
+    "name": "Chicken Wings Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 230,
-    "name": "lil Debbie’s Cosmic Brownie",
+    "name": "lil Debbie’s Cosmic Brownie Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 231,
-    "name": "Tuna Noodle Casserole",
+    "name": "Tuna Noodle Casserole Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 232,
-    "name": "Stuffed Peppers",
+    "name": "Stuffed Peppers Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 233,
-    "name": "Trail Mix",
+    "name": "Trail Mix Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 234,
-    "name": "French toast",
+    "name": "French toast Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 235,
-    "name": "Fried Bologna Sandwich",
+    "name": "Fried Bologna Sandwich Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 236,
-    "name": "Diet Coke and Mentos",
+    "name": "Diet Coke and Mentos Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 237,
-    "name": "Pigs in a Blanket",
+    "name": "Pigs in a Blanket Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 238,
-    "name": "Pumpkin Spice",
+    "name": "Pumpkin Spice Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 239,
-    "name": "Dehydrated Wasabi Peas",
+    "name": "Dehydrated Wasabi Peas Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 240,
-    "name": "Mr Beast Moist Burger",
+    "name": "Mr Beast Moist Burger Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 241,
-    "name": "Ceviche",
+    "name": "Ceviche Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 242,
-    "name": "Boo Berry Cereal",
+    "name": "Boo Berry Cereal Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 243,
-    "name": "Arby’s Meat Mountain",
+    "name": "Arby’s Meat Mountain Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 244,
-    "name": "Tomahawk ribeye",
+    "name": "Tomahawk ribeye Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 245,
-    "name": "Pumpkin Roll",
+    "name": "Pumpkin Roll Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 246,
-    "name": "Sweet Sue’s Canned Chicken and Dumplings",
+    "name": "Sweet Sue’s Canned Chicken and Dumplings Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 247,
-    "name": "Megan Thee Stallion Chicken Sandwich",
+    "name": "Megan Thee Stallion Chicken Sandwich Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 248,
-    "name": "Horseradish",
+    "name": "Horseradish Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 249,
-    "name": "Cricket",
+    "name": "Cricket Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 250,
-    "name": "Manicotti",
+    "name": "Manicotti Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 251,
-    "name": "Portillo’s Italian Beef Sandwich",
+    "name": "Portillo’s Italian Beef Sandwich Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 252,
-    "name": "Loco moco",
+    "name": "Loco moco Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 253,
-    "name": "Hot Giardiniera",
+    "name": "Hot Giardiniera Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 254,
-    "name": "Bagel",
+    "name": "Bagel Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 255,
-    "name": "Thai Lettuce Wraps",
+    "name": "Thai Lettuce Wraps Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 256,
-    "name": "Egg Nog Sausage",
+    "name": "Egg Nog Sausage Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 257,
-    "name": "Holiday Sausage Sampler",
+    "name": "Holiday Sausage Sampler Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 258,
-    "name": "Hanukkah Potato Latke",
+    "name": "Hanukkah Potato Latke Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 259,
-    "name": "Nuts on Clark Caramel Popcorn",
+    "name": "Nuts on Clark Caramel Popcorn Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 260,
-    "name": "Butter Cookies",
+    "name": "Butter Cookies Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 261,
-    "name": "Octopus",
+    "name": "Octopus Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 262,
-    "name": "A Head of Lettuce",
+    "name": "A Head of Lettuce Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 263,
-    "name": "Candle Salad",
+    "name": "Candle Salad Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 264,
-    "name": "Bacon Wrapped Filet Mignon Puck",
+    "name": "Bacon Wrapped Filet Mignon Puck Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 265,
-    "name": "Fruitcake",
+    "name": "Fruitcake Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 266,
-    "name": "McDonald's Big Breakfast",
+    "name": "McDonald's Big Breakfast Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 267,
-    "name": "Peppermint Candy Cane",
+    "name": "Peppermint Candy Cane Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 268,
-    "name": "Poke Bowl",
+    "name": "Poke Bowl Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 269,
-    "name": "Spiral Cut Honey Glazed Ham",
+    "name": "Spiral Cut Honey Glazed Ham Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 270,
-    "name": "Champagne and Caviar",
+    "name": "Champagne and Caviar Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 271,
-    "name": "Twinkie",
+    "name": "Twinkie Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 272,
-    "name": "Carolina Reaper",
+    "name": "Carolina Reaper Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 273,
-    "name": "Flamin' Hot Cheetos",
+    "name": "Flamin' Hot Cheetos Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 274,
-    "name": "Mustard",
+    "name": "Mustard Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 275,
-    "name": "Sauerkraut",
+    "name": "Sauerkraut Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 276,
-    "name": "Reverse Spaghetti",
+    "name": "Reverse Spaghetti Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 277,
-    "name": "Flour",
+    "name": "Flour Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 278,
-    "name": "Bloody Mary",
+    "name": "Bloody Mary Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 279,
-    "name": "Pork Chops and Applesauce",
+    "name": "Pork Chops and Applesauce Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 280,
-    "name": "JUST Sauerkraut",
+    "name": "JUST Sauerkraut Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 281,
-    "name": "Res Bull",
+    "name": "Red Bull Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 282,
-    "name": "Chipped Beef on Toast",
+    "name": "Chipped Beef on Toast Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 283,
-    "name": "Lemon",
+    "name": "Lemon Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 284,
-    "name": "Pickled Pigs Feet",
+    "name": "Pickled Pigs Feet Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 285,
-    "name": "Coffee Beans",
+    "name": "Coffee Beans Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 286,
-    "name": "Sugar",
+    "name": "Sugar Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 287,
-    "name": "Jeppson's Malört",
+    "name": "Jeppson's Malört Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 288,
-    "name": "Hot Chocolate",
+    "name": "Hot Chocolate Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 289,
-    "name": "Bac'n Bits",
+    "name": "Bac'n Bits Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 290,
-    "name": "Fruity Pebbles",
+    "name": "Fruity Pebbles Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 291,
-    "name": "Kangaroo",
+    "name": "Kangaroo Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 292,
-    "name": "Taquitos",
+    "name": "Taquitos Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 293,
-    "name": "Whey Protein",
+    "name": "Whey Protein Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 294,
-    "name": "Crushed Red Pepper",
+    "name": "Crushed Red Pepper Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 295,
-    "name": "Canned Tamales",
+    "name": "Canned Tamales Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 296,
-    "name": "Cuttlefish",
+    "name": "Cuttlefish Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 297,
-    "name": "Sprinkles",
+    "name": "Sprinkles Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 298,
-    "name": "Dried Shrimp",
+    "name": "Dried Shrimp Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 299,
-    "name": "Frog Legs",
+    "name": "Frog Legs Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 300,
-    "name": "McDonald's Shamrock Shake",
+    "name": "McDonald's Shamrock Shake Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 301,
-    "name": "Cactus",
+    "name": "Cactus Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 302,
-    "name": "Expired Macaroni Salad",
+    "name": "Expired Macaroni Salad Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 303,
-    "name": "Vegemite",
+    "name": "Vegemite Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 304,
-    "name": "Sangria",
+    "name": "Sangria Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 305,
-    "name": "Honey",
+    "name": "Honey Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 306,
-    "name": "Bubble Gum",
+    "name": "Bubble Gum Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 307,
-    "name": "Creamed Corn",
+    "name": "Creamed Corn Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 308,
-    "name": "Limburger Cheese",
-    "rating": "4(5",
+    "name": "Limburger Cheese Sausage",
+    "rating": "4.0",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 309,
-    "name": "A1 Steak Sauce",
+    "name": "A1 Steak Sauce Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 310,
-    "name": "Vegetable Dip Mix",
+    "name": "Vegetable Dip Mix Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 311,
-    "name": "Sour Patch Kids",
+    "name": "Sour Patch Kids Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 312,
-    "name": "Pickled Eggs",
+    "name": "Pickled Eggs Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 313,
-    "name": "Pop Rocks",
+    "name": "Pop Rocks Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 314,
-    "name": "SpaghettiO's",
+    "name": "SpaghettiO's Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 315,
-    "name": "Beef Flavored Baby Food",
+    "name": "Beef Flavored Baby Food Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 316,
-    "name": "Tortilla",
+    "name": "Tortilla Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 317,
-    "name": "Wasabi",
+    "name": "Wasabi Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 318,
-    "name": "Cinnamon Toast Crunch",
+    "name": "Cinnamon Toast Crunch Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 319,
-    "name": "Skirt Steak",
+    "name": "Skirt Steak Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 320,
-    "name": "Anchovies",
-    "rating": "4(5",
+    "name": "Anchovies Sausage",
+    "rating": "4.0",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 321,
-    "name": "Instant Chicken Ramen",
+    "name": "Instant Chicken Ramen Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 322,
-    "name": "Takis Fuego",
+    "name": "Takis Fuego Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 323,
-    "name": "Aloe Vera",
+    "name": "Aloe Vera Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 324,
-    "name": "Tequila",
+    "name": "Tequila Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 325,
-    "name": "Hash Browns",
+    "name": "Hash Browns Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 326,
-    "name": "Arby's Deluxe Wagyu Steakhouse Burger",
+    "name": "Arby's Deluxe Wagyu Steakhouse Burger Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 327,
-    "name": "Mint Jelly",
+    "name": "Mint Jelly Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 328,
-    "name": "Black Licorice",
+    "name": "Black Licorice Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 329,
-    "name": "British Baked Beans",
+    "name": "British Baked Beans Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 330,
-    "name": "Coconut",
+    "name": "Coconut Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 331,
-    "name": "Sushi Grade Tuna",
+    "name": "Sushi Grade Tuna Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 332,
-    "name": "Salt Water Taffy",
+    "name": "Salt Water Taffy Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 333,
-    "name": "Tongue",
+    "name": "Tongue Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 334,
-    "name": "Cheddar and Jalapeño",
+    "name": "Cheddar and Jalapeño Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 335,
-    "name": "Oyster",
+    "name": "Oyster Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 336,
-    "name": "Dragon Fruit",
+    "name": "Dragon Fruit Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 337,
-    "name": "Powdered Cheese",
+    "name": "Powdered Cheese Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 338,
-    "name": "Mixed Dried Fruit",
+    "name": "Mixed Dried Fruit Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 339,
-    "name": "Caramelized Onions",
+    "name": "Caramelized Onions Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 340,
-    "name": "Fish Sticks",
-    "rating": "4(5",
+    "name": "Fish Sticks Sausage",
+    "rating": "4.0",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 341,
-    "name": "Cookie Dough ReGrind",
+    "name": "Cookie Dough Sausage ReGrind",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 342,
-    "name": "Jollibee Chickenjoy with Palabok",
+    "name": "Jollibee Chickenjoy with Palabok Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 343,
-    "name": "Marinated Olives",
+    "name": "Marinated Olives Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 344,
-    "name": "California Pizza Kitchen BBQ Chicken Pizza",
+    "name": "California Pizza Kitchen BBQ Chicken Pizza Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 345,
-    "name": "Hummus",
+    "name": "Hummus Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 346,
-    "name": "Taco Bell Bacon Breakfast Crunchwrap",
+    "name": "Taco Bell Bacon Breakfast Crunchwrap Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 347,
-    "name": "Silk Worms",
+    "name": "Silk Worms Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 348,
-    "name": "Powdered Eggs",
+    "name": "Powdered Eggs Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 349,
-    "name": "Sashimi Party Tray",
+    "name": "Sashimi Party Tray Sausage",
     "rating": 6.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 350,
-    "name": "Spray Cheese",
+    "name": "Spray Cheese Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 351,
-    "name": "Scorpions",
+    "name": "Scorpions Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 352,
-    "name": "Tofu",
+    "name": "Tofu Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 353,
-    "name": "Beet and Goat Cheese",
+    "name": "Beet and Goat Cheese Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 354,
-    "name": "Guy Fieri's Trash Can Nachos",
+    "name": "Guy Fieri's Trash Can Nachos Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 355,
-    "name": "Rabbit",
+    "name": "Rabbit Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 356,
-    "name": "Smoked Tabasco",
+    "name": "Smoked Tabasco Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 357,
-    "name": "Brisket Trimmings",
+    "name": "Brisket Trimmings Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 358,
-    "name": "Frozen Potstickers",
+    "name": "Frozen Potstickers Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 359,
-    "name": "Chef Michael Symon Pork and Sauerkraut Pierogis",
+    "name": "Chef Michael Symon Pork and Sauerkraut Pierogis Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 360,
-    "name": "Taco Bell Mexican Pizza",
+    "name": "Taco Bell Mexican Pizza Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 361,
-    "name": "MSG",
+    "name": "MSG Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 362,
-    "name": "Angry Orchard Hard Apple Cider",
+    "name": "Angry Orchard Hard Apple Cider Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 363,
-    "name": "Jimmy John's #7 Spicy Easy Coast Sub",
+    "name": "Jimmy John's #7 Spicy Easy Coast Sub Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 364,
-    "name": "White Castle Cheeseburger Bites",
+    "name": "White Castle Cheeseburger Bites Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 365,
-    "name": "Pico de Gallo",
+    "name": "Pico de Gallo Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 366,
-    "name": "SweeTarts",
+    "name": "SweeTarts Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 367,
-    "name": "Bananas Foster",
+    "name": "Bananas Foster Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 368,
-    "name": "Goulish Green Snickers",
+    "name": "Goulish Green Snickers Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 369,
-    "name": "Bone Marrow",
+    "name": "Bone Marrow Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 370,
-    "name": "Ghost Pepper Whopper",
+    "name": "Ghost Pepper Whopper Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 371,
-    "name": "Frito Pie",
+    "name": "Frito Pie Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 372,
-    "name": "Aunt Myrna's Party Cheese Salad",
+    "name": "Aunt Myrna's Party Cheese Salad Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 373,
-    "name": "Everything From Panda Express",
+    "name": "Everything From Panda Express Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 374,
-    "name": "Box of Crayons",
+    "name": "Box of Crayons Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 375,
-    "name": "Everything from Wingstop",
+    "name": "Everything from Wingstop Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 376,
-    "name": "Everything in One Week by Barenaked Ladies",
+    "name": "Everything Mentioned in the song \"One Week\" by Barenaked Ladies Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 377,
-    "name": "Smoked Turkey Breast",
+    "name": "Smoked Turkey Breast Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 378,
-    "name": "Red Lobster Ultimate Feast",
+    "name": "Red Lobster Ultimate Feast Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 379,
-    "name": "Olive Garden Soup, Salad and Breadsticks",
+    "name": "Olive Garden Soup, Salad and Breadsticks Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 380,
-    "name": "Geoduck",
+    "name": "Geoduck Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 381,
-    "name": "Wendy's Breakfast Baconator",
+    "name": "Wendy's Breakfast Baconator Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 382,
-    "name": "Durian",
+    "name": "Durian Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 383,
-    "name": "Ranked French Fries",
+    "name": "Ranked French Fries Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 384,
-    "name": "Eel",
+    "name": "Eel Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 385,
-    "name": "Triple Dipper",
+    "name": "Triple Dipper Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 386,
-    "name": "Figgy Pudding",
+    "name": "Figgy Pudding Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 387,
-    "name": "Parmesan Chicken \"Pizza Style\" Sausage",
+    "name": "Parmesan Chicken \"Pizza Style\" Sausage Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 388,
-    "name": "Kimbap",
-    "rating": "4(5",
+    "name": "Kimbap Sausage",
+    "rating": "4.0",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 389,
-    "name": "Cat Food",
+    "name": "Cat Food Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 390,
-    "name": "Beef Tendon",
+    "name": "Beef Tendon Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 391,
-    "name": "A Big Bucket of Beef",
+    "name": "A Big Bucket of Beef Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 392,
-    "name": "Costco Rotisserie Chicken",
+    "name": "Costco Rotisserie Chicken Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 393,
-    "name": "Liquid Smoke",
+    "name": "Liquid Smoke Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 394,
-    "name": "Frozen Pizza",
+    "name": "Frozen Pizza Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 395,
-    "name": "Rehydrated Dehydrated Pork",
+    "name": "Rehydrated Dehydrated Pork Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 396,
-    "name": "McDonald's Apple Pie",
+    "name": "McDonald's Apple Pie Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 397,
-    "name": "Sport Peppers",
+    "name": "Sport Peppers Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 398,
-    "name": "Gene and Jude's Hotdog",
+    "name": "Gene and Jude's Hotdog Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 399,
-    "name": "Bacon Wrapped Shrimp Stuffed Jalapeños",
+    "name": "Bacon Wrapped Shrimp Stuffed Jalapeños Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 400,
-    "name": "Paqui One Chip Challenge",
+    "name": "Paqui One Chip Challenge Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 401,
-    "name": "Snow",
+    "name": "Snow Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 402,
-    "name": "Katz's Deli 5 Pound Whole Pastrami",
+    "name": "Katz's Deli 5 Pound Whole Pastrami Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 403,
-    "name": "Big Bucket of Auntie Anne's Pretzels with Cheese",
+    "name": "Big Bucket of Auntie Anne's Pretzels with Cheese Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 404,
-    "name": "A Dozen Red Roses",
+    "name": "A Dozen Red Roses Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png Sausage"
   },
   {
     "id": 405,
-    "name": "Hidden Valley Ranch Mix",
+    "name": "Hidden Valley Ranch Mix Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 406,
-    "name": "Shake Shack Truffle Burger",
+    "name": "Shake Shack Truffle Burger Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 407,
-    "name": "Fool's Gold Loaf",
+    "name": "Fool's Gold Loaf Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 408,
-    "name": "Escargot",
+    "name": "Escargot Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 409,
-    "name": "Warheads",
+    "name": "Warheads Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 410,
-    "name": "KFC Double Down",
+    "name": "KFC Double Down Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 411,
-    "name": "Every Lunchables",
+    "name": "Every Lunchables Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 412,
-    "name": "Hair",
+    "name": "Hair Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 413,
-    "name": "Onion Rings",
+    "name": "Onion Rings Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 414,
-    "name": "2x Pot Roast",
+    "name": "2x Pot Roast Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 415,
-    "name": "Foie Gras",
+    "name": "Foie Gras Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 416,
-    "name": "The Cheapest Steak at LongHorns Steakhouse",
+    "name": "The Cheapest Steak at LongHorns Steakhouse Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 417,
-    "name": "Gushers",
+    "name": "Gushers Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 418,
-    "name": "Shawarma",
+    "name": "Shawarma Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 419,
-    "name": "Peepsi Sausage",
+    "name": "Peepsi Sausage Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 420,
-    "name": "Smoked Kid Cuisine",
+    "name": "Smoked Kid Cuisine Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 421,
-    "name": "Metamucil 4-in-1 Fiber",
+    "name": "Metamucil 4-in-1 Fiber Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 422,
-    "name": "Impossible Chicken Nuggets",
+    "name": "Impossible Chicken Nuggets Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 423,
-    "name": "Fruit Tart",
+    "name": "Fruit Tart Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 424,
-    "name": "Wheat Grass",
+    "name": "Wheat Grass Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 425,
-    "name": "Dehydrated Sushi",
+    "name": "Dehydrated Sushi Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 426,
-    "name": "Funyuns",
+    "name": "Funyuns Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 427,
-    "name": "Antipasto",
+    "name": "Antipasto Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 428,
-    "name": "Peanut Butter Pretzel Nuggets",
+    "name": "Peanut Butter Pretzel Nuggets Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 429,
-    "name": "Chili's Cajun Chicken Pasta",
+    "name": "Chili's Cajun Chicken Pasta Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 430,
-    "name": "Tostito's Creamy Spinach Dip",
+    "name": "Tostito's Creamy Spinach Dip Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 431,
-    "name": "Smoked Hot Pocket",
+    "name": "Smoked Hot Pocket Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 432,
-    "name": "Italian Sausage",
+    "name": "Italian Sausage Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 433,
-    "name": "Pesto",
+    "name": "Pesto Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 434,
-    "name": "Marshmellow Fluff",
+    "name": "Marshmallow Fluff Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 435,
-    "name": "Dave's Insanity Sauce",
+    "name": "Dave's Insanity Sauce Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 436,
-    "name": "Prune",
+    "name": "Prune Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 437,
-    "name": "Beef Curry",
+    "name": "Beef Curry Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 438,
-    "name": "Salt and Vinegar Chips",
+    "name": "Salt and Vinegar Chips Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 439,
-    "name": "McDonald's Grimace Birthday Meal",
+    "name": "McDonald's Grimace Birthday Meal Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 440,
-    "name": "Artificial Krab",
+    "name": "Artificial Krab Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 441,
-    "name": "Four Loko + Malort",
+    "name": "Four Loko + Malort Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 442,
-    "name": "Guga's Hot Dog Smashburger",
+    "name": "Guga's Hot Dog Smashburger Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 443,
-    "name": "Swordfish",
+    "name": "Swordfish Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 444,
-    "name": "Funnel Cake",
+    "name": "Funnel Cake Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 445,
-    "name": "Pilk",
+    "name": "Pilk Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 446,
-    "name": "Entire Corn on the Cob",
+    "name": "Entire Corn on the Cob Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 447,
-    "name": "Coleslaw",
+    "name": "Coleslaw Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 448,
-    "name": "Pencil",
+    "name": "Pencil Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 449,
-    "name": "Parmesan Cheese",
+    "name": "Parmesan Cheese Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 450,
-    "name": "Barbie Pink Sauce",
+    "name": "Barbie Pink Sauce Sausage",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 451,
-    "name": "Jawbreaker",
+    "name": "Jawbreaker Sausage",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 452,
-    "name": "Socks",
+    "name": "Socks Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 453,
-    "name": "Playdoh",
+    "name": "Playdoh Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 454,
-    "name": "Taco Bell Volcano Menu",
+    "name": "Taco Bell Volcano Menu Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 455,
-    "name": "Whiskey",
+    "name": "Whiskey Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 456,
-    "name": "Surströmming",
+    "name": "Surströmming Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 457,
-    "name": "Helium",
+    "name": "Helium Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 458,
-    "name": "Grilled Watermelon",
+    "name": "Grilled Watermelon Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 459,
-    "name": "Fava Beans, Chianti and Liver",
+    "name": "Fava Beans, Chianti and Liver Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 460,
-    "name": "Soft Shell Crab",
+    "name": "Soft Shell Crab Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 461,
-    "name": "A Single Potato",
+    "name": "A Single Potato Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 462,
-    "name": "New England Clam Chowder",
+    "name": "New England Clam Chowder Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 463,
-    "name": "Caramel Apple",
+    "name": "Caramel Apple Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 464,
-    "name": "Hibachi",
+    "name": "Hibachi Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 465,
-    "name": "Texas Toast",
+    "name": "Texas Toast Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 466,
-    "name": "Honeycomb",
+    "name": "Honeycomb Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 467,
-    "name": "Cottage Cheese",
+    "name": "Cottage Cheese Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 468,
-    "name": "Chicken Hearts",
+    "name": "Chicken Hearts Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 469,
-    "name": "Guy Fieri's Flavortown Sloppy Joe Mac and Cheese",
+    "name": "Guy Fieri's Flavortown Sloppy Joe Mac and Cheese Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 470,
-    "name": "Gordon Ramsay Mushroom Risotto Sausage",
+    "name": "Gordon Ramsay Mushroom Risotto Sausage Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 471,
-    "name": "Pulled Pork and Tuna Salad Sandwich",
+    "name": "Pulled Pork and Tuna Salad Sandwich Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 472,
-    "name": "Cherry Pie",
+    "name": "Cherry Pie Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 473,
-    "name": "Corn Nuts",
+    "name": "Corn Nuts Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 474,
-    "name": "Meet Your Maker Hot Sauce",
+    "name": "Meet Your Maker Hot Sauce Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 475,
-    "name": "Catnip",
+    "name": "Catnip Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 476,
-    "name": "Adam and Eve",
+    "name": "Adam and Eve Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 477,
-    "name": "Ghosts in the Graveyard",
+    "name": "Ghosts in the Graveyard Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 478,
-    "name": "Smoked Nova Salmon (Lox)",
+    "name": "Smoked Nova Salmon (Lox) Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 479,
-    "name": "Sixteen Granola Bars",
+    "name": "Sixteen Granola Bars Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 480,
-    "name": "KFC Famous Bowl",
+    "name": "KFC Famous Bowl Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 481,
-    "name": "Tapatio Birria Ramen with Brisket",
+    "name": "Tapatio Birria Ramen with Brisket Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 482,
-    "name": "Guy Fieri's Recipe for Turkey Tequila Fettuccine",
+    "name": "Guy Fieri's Recipe for Turkey Tequila Fettuccine Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 483,
-    "name": "Sea Urchin Roe (Uni)",
+    "name": "Sea Urchin Roe (Uni) Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 484,
-    "name": "Good Burger 2 Meal",
+    "name": "Good Burger 2 Meal Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 485,
-    "name": "Gefilte Fish",
+    "name": "Gefilte Fish Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 486,
-    "name": "Active Dry Yeast",
+    "name": "Active Dry Yeast Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 487,
-    "name": "Filet Mignon, Chicken, and Salmon",
+    "name": "Filet Mignon, Chicken, and Salmon Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 488,
-    "name": "Tony Boloney's Taco Pizza",
+    "name": "Tony Boloney's Taco Pizza Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 489,
-    "name": "Charcoal",
+    "name": "Charcoal Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 490,
-    "name": "Stroopwafel",
+    "name": "Stroopwafel Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 491,
-    "name": "Pickled Ginger",
+    "name": "Pickled Ginger Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 492,
-    "name": "Russian Pine Cone Jam",
+    "name": "Russian Pine Cone Jam Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 493,
-    "name": "Matcha",
+    "name": "Matcha Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 494,
-    "name": "Doritos Dip",
+    "name": "Doritos Dip Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 495,
-    "name": "Menthol",
+    "name": "Menthol Sausage",
     "rating": -1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 496,
-    "name": "Astronaut Ice Cream",
+    "name": "Astronaut Ice Cream Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 497,
-    "name": "Chizza",
+    "name": "Chizza Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 498,
-    "name": "Citric Acid",
+    "name": "Citric Acid Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 499,
-    "name": "Butter Powder",
+    "name": "Butter Powder Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 500,
-    "name": "Wagyu Beef Tallow",
+    "name": "Wagyu Beef Tallow Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 501,
-    "name": "Vaseline",
+    "name": "Vaseline Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 502,
-    "name": "Kidneys Sausage",
+    "name": "Kidneys Sausage Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 503,
-    "name": "Sloppy Joe",
+    "name": "Sloppy Joe Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 504,
-    "name": "Momofuku Chili Crunch",
+    "name": "Momofuku Chili Crunch Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 505,
-    "name": "Caffeine",
+    "name": "Caffeine Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 506,
-    "name": "Flintstones Vitamins",
+    "name": "Flintstones Vitamins Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 507,
-    "name": "Twinkie Sausag (ReGrind)",
+    "name": "Twinkie Sausage (ReGrind)",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 508,
-    "name": "White Castle Crave Case (30 Sliders)",
+    "name": "White Castle Crave Case (30 Sliders) Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 509,
-    "name": "Pizza Hut Cheeseburger Melt",
+    "name": "Pizza Hut Cheeseburger Melt Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 510,
-    "name": "Pickled Bologna",
+    "name": "Pickled Bologna Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 511,
-    "name": "Taco Bell Cheez-It Tostada",
+    "name": "Taco Bell Cheez-It Tostada Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 512,
-    "name": "Hákarl (Fermented Shark)",
+    "name": "Hákarl (Fermented Shark) Sausage",
     "rating": -100.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 513,
-    "name": "Biscuits and Gravy",
+    "name": "Biscuits and Gravy Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 514,
-    "name": "Pete's Boiled Hamburgers",
+    "name": "Pete's Boiled Hamburgers Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 515,
-    "name": "Crunch of Doom",
+    "name": "Crunch of Doom Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 516,
-    "name": "Martini",
+    "name": "Martini Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 517,
-    "name": "Weird Al UHF Twinkie Wiener Sandwich",
+    "name": "Weird Al UHF Twinkie Wiener Sandwich Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 518,
-    "name": "Tiger Skin Chicken Feet",
+    "name": "Tiger Skin Chicken Feet Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 519,
-    "name": "Chicken Soup",
+    "name": "Chicken Soup Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 520,
-    "name": "Meat Glue",
+    "name": "Meat Glue Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 521,
-    "name": "Seaweed Caviar",
+    "name": "Seaweed Caviar Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 522,
-    "name": "Carolina Reaper Peanuts",
+    "name": "Carolina Reaper Peanuts Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 523,
-    "name": "Mexican Chorizo",
+    "name": "Mexican Chorizo Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 524,
-    "name": "Toilet Paper",
+    "name": "Toilet Paper Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 525,
-    "name": "Buffalo Chicken Dip",
+    "name": "Buffalo Chicken Dip Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 526,
-    "name": "Sai Ua",
+    "name": "Sai Ua Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 527,
@@ -4211,39 +4213,39 @@
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 528,
-    "name": "Chicken Jelly Belly",
+    "name": "Chicken Jelly Belly Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 529,
-    "name": "Snail Noodle Soup",
+    "name": "Snail Noodle Soup Sausage",
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 530,
-    "name": "Dry Iceage",
+    "name": "Dry Iceage Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 531,
-    "name": "Cajun Andouille",
+    "name": "Cajun Andouille Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 532,
@@ -4251,63 +4253,63 @@
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 533,
-    "name": "An Entire Bottle of Pure Vanilla Extract",
+    "name": "An Entire Bottle of Pure Vanilla Extract Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 534,
-    "name": "OREO Coke Coke OREO",
+    "name": "OREO flavored Coke and Coke flavored OREO Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 535,
-    "name": "German Fischbrötchen",
+    "name": "German Fischbrötchen Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 536,
-    "name": "Dog Treats",
+    "name": "Dog Treats Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 537,
-    "name": "Jackfruit",
+    "name": "Jackfruit Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 538,
-    "name": "Pickle Cotton Candy",
+    "name": "Pickle Cotton Candy Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 539,
-    "name": "An Entire Can of PAM Cooking Spray",
+    "name": "An Entire Can of PAM Cooking Spray Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 540,
@@ -4315,7 +4317,7 @@
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 541,
@@ -4323,47 +4325,47 @@
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 542,
-    "name": "Whole Organic Vanilla Bean",
+    "name": "Whole Organic Vanilla Bean Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 543,
-    "name": "Freeze Dried Ground Beef",
+    "name": "Freeze Dried Ground Beef Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 544,
-    "name": "Canned Scottish Haggis",
+    "name": "Canned Scottish Haggis Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 545,
-    "name": "The World's Hottest Gummy Bear",
+    "name": "The World's Hottest Gummy Bear Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 546,
-    "name": "Century Eggs",
+    "name": "Century Eggs Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 547,
@@ -4371,7 +4373,7 @@
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 548,
@@ -4379,119 +4381,119 @@
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 549,
-    "name": "Icelandic Fish Pudding (Fiskbudingur)",
+    "name": "Icelandic Fish Pudding (Fiskbudingur) Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 550,
-    "name": "Cuitlacoche Corn Fungus",
+    "name": "Cuitlacoche Corn Fungus Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 551,
-    "name": "Sprats",
+    "name": "Sprats Sausage",
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 552,
-    "name": "Natto",
+    "name": "Natto Sausage",
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 553,
-    "name": "Rat Food",
+    "name": "Rat Food Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 554,
-    "name": "Tarantula",
+    "name": "Tarantula Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 555,
-    "name": "Ammonia",
+    "name": "Ammonia Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 556,
-    "name": "Taiyaki",
+    "name": "Taiyaki Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 557,
-    "name": "Russian Beef Stew",
+    "name": "Russian Beef Stew Sausage",
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 558,
-    "name": "Printer Ink",
+    "name": "Printer Ink Sausage",
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 559,
-    "name": "Baking Soda",
+    "name": "Baking Soda Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 560,
-    "name": "Glitter",
+    "name": "Glitter Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 561,
-    "name": "Weird Swedish Candy",
+    "name": "Weird Swedish Candy Sausage",
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 562,
-    "name": "Cosmonaut Space Food",
+    "name": "Cosmonaut Space Food Sausage",
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 563,
@@ -4499,7 +4501,7 @@
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 564,
@@ -4507,7 +4509,7 @@
     "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 565,
@@ -4515,7 +4517,7 @@
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 566,
@@ -4523,7 +4525,7 @@
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 567,
@@ -4531,7 +4533,7 @@
     "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 568,
@@ -4539,7 +4541,7 @@
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 569,
@@ -4547,7 +4549,7 @@
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 570,
@@ -4555,7 +4557,7 @@
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 571,
@@ -4563,7 +4565,7 @@
     "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 572,
@@ -4571,7 +4573,7 @@
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 573,
@@ -4579,7 +4581,7 @@
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 574,
@@ -4587,7 +4589,7 @@
     "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 575,
@@ -4595,7 +4597,7 @@
     "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 576,
@@ -4603,7 +4605,7 @@
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 577,
@@ -4611,7 +4613,7 @@
     "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 578,
@@ -4619,7 +4621,7 @@
     "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 579,
@@ -4627,7 +4629,7 @@
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 580,
@@ -4635,7 +4637,7 @@
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   },
   {
     "id": 581,
@@ -4643,6 +4645,6 @@
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
-    "image": ""
+    "image": "images/sausages/.png"
   }
 ]
