@@ -22,6 +22,13 @@ function getDailySeed() {
   );
 }
 
+function getNumericRating(food) {
+  if (food.rating === "disqualified") {
+    return -0.5; // treat disqualified sausages as less than 0 but more than -1
+  }
+  return Number(food.rating);
+}
+
 function generateDailyPairs() {
   const rng = mulberry32(getDailySeed());
   const pairs = [];
@@ -29,7 +36,7 @@ function generateDailyPairs() {
   while (pairs.length < 10) {
     const f1 = foods[Math.floor(rng() * foods.length)];
     const f2 = foods[Math.floor(rng() * foods.length)];
-    if (f1.name !== f2.name && f1.rating !== f2.rating) {
+    if (f1.name !== f2.name && getNumericRating(f1) !== getNumericRating(f2)) {
       if (!pairs.some(p => (p[0] === f1 && p[1] === f2) || (p[0] === f2 && p[1] === f1))) {
         pairs.push([f1, f2]);
       }
@@ -56,7 +63,10 @@ function startRound() {
     btn.className = "choice";
     btn.textContent = food.name;
     btn.onclick = () => {
-      if (food.rating > (food === f1 ? f2.rating : f1.rating)) {
+      const f1Rating = getNumericRating(f1);
+      const f2Rating = getNumericRating(f2);
+
+      if (getNumericRating(food) > (food === f1 ? f2Rating : f1Rating)) {
         score++;
         document.getElementById("result").textContent =
           `✅ Correct! (${f1.name}: ${f1.rating}, ${f2.name}: ${f2.rating}) | Score: ${score}`;
@@ -72,7 +82,7 @@ function startRound() {
 }
 
 // ---- Load foods.json then start game ----
-fetch("sausages.json")
+fetch("foods.json")
   .then(response => response.json())
   .then(data => {
     foods = data;
@@ -83,4 +93,6 @@ fetch("sausages.json")
     console.error("Failed to load foods.json", err);
     document.getElementById("result").textContent = "Error loading food data.";
   });
+
+
 
