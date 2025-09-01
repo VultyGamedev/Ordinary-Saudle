@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Pickle Juice Spaghetti",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Espresso Instant Soup",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Deep Fried McDouble",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Diet Coke Spaghetti",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "A1 Sauce Boiled Steak",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "Beer Spaghetti",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "name": "Deep Fried Caramel Apple",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "name": "Deep Fried Mac and Cheese Balls",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "name": "Steak Boiled in Mayonnaise",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "name": "Sous Vide Big Mac / Sous Vide Steak Big Mac",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "name": "Deep Fried Beef Jerky",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "name": "Ice Cream Steak",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -130,7 +130,7 @@
   {
     "id": 17,
     "name": "Jello Spaghetti",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "name": "Funfetti Injected Chicken",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "name": "Dehydrated Hot Dogs",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -154,7 +154,7 @@
   {
     "id": 20,
     "name": "Spaghetto",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -162,7 +162,7 @@
   {
     "id": 21,
     "name": "Monster Energy Steak",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -170,7 +170,7 @@
   {
     "id": 22,
     "name": "Dehydrated T-Bone Steak",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -178,7 +178,7 @@
   {
     "id": 23,
     "name": "Deep Fried Bologna Cake",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -186,7 +186,7 @@
   {
     "id": 24,
     "name": "Dehydrated Pickles",
-    "rating": "0.5/5",
+    "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -194,7 +194,7 @@
   {
     "id": 25,
     "name": "Steak Boiled in Eggs",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -210,7 +210,7 @@
   {
     "id": 27,
     "name": "Chicken Boiled in Soy Sauce",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -218,7 +218,7 @@
   {
     "id": 28,
     "name": "Carbonated Chicken Soup",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -226,7 +226,7 @@
   {
     "id": 29,
     "name": "Deep Fried Fruit Roll Up",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -234,7 +234,7 @@
   {
     "id": 30,
     "name": "Steak Boiled in Liquid Smoke (NSE)",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -242,7 +242,7 @@
   {
     "id": 31,
     "name": "Egg Hard Boiled in Candle Way",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -250,7 +250,7 @@
   {
     "id": 32,
     "name": "Chocolate Mashed Potatoes",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -258,7 +258,7 @@
   {
     "id": 33,
     "name": "Steak Boiled In Cheese",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -266,7 +266,7 @@
   {
     "id": 34,
     "name": "Popsicle Lobster Tail",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -274,7 +274,7 @@
   {
     "id": 35,
     "name": "Steak Boiled in Pickle Juice",
-    "rating": "3.5/5",
+    "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -282,7 +282,7 @@
   {
     "id": 36,
     "name": "Not-so-ordinary loaded Chipotle waffle",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -290,7 +290,7 @@
   {
     "id": 37,
     "name": "Sous Vide Syrup Steak",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -298,7 +298,7 @@
   {
     "id": 38,
     "name": "Sushi Waffle",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -306,7 +306,7 @@
   {
     "id": 39,
     "name": "Steak Boiled in Baked Beans",
-    "rating": "6/5",
+    "rating": 6.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -314,7 +314,7 @@
   {
     "id": 40,
     "name": "Dehydrated Quarter Pounder and Fries",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -322,7 +322,7 @@
   {
     "id": 41,
     "name": "OREO Fried Chicken",
-    "rating": "3.5/5",
+    "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -330,7 +330,7 @@
   {
     "id": 42,
     "name": "Frank's Red Hot Spaghetti",
-    "rating": "3.5/5",
+    "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -338,7 +338,7 @@
   {
     "id": 43,
     "name": "Carbonated Baked Beans",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -346,7 +346,7 @@
   {
     "id": 44,
     "name": "Steak Boiled in Margarita",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -354,7 +354,7 @@
   {
     "id": 45,
     "name": "SpaghettGlobe",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -362,7 +362,7 @@
   {
     "id": 46,
     "name": "Deep Frying An Apple For An Hour",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -370,7 +370,7 @@
   {
     "id": 47,
     "name": "Dehydrated Eggs",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -378,7 +378,7 @@
   {
     "id": 48,
     "name": "Waffled Chef Boyardee Beef Ravioli",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -386,7 +386,7 @@
   {
     "id": 49,
     "name": "Carbonated Eggs",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -394,7 +394,7 @@
   {
     "id": 50,
     "name": "Steak Boiled in Yellow Mustard",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -402,7 +402,7 @@
   {
     "id": 51,
     "name": "Deep-fried Bananas",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -410,7 +410,7 @@
   {
     "id": 52,
     "name": "Bacon Wrapped Bacon",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -418,7 +418,7 @@
   {
     "id": 53,
     "name": "Deep Frying an Orange for an Hour",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -426,7 +426,7 @@
   {
     "id": 54,
     "name": "Ultra Cabbage",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -434,7 +434,7 @@
   {
     "id": 55,
     "name": "Spam Surprise",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -442,7 +442,7 @@
   {
     "id": 56,
     "name": "Hamburger Pie",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -450,7 +450,7 @@
   {
     "id": 57,
     "name": "Deep-Fried Kiwi",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -458,7 +458,7 @@
   {
     "id": 58,
     "name": "Mega Starburst",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -466,7 +466,7 @@
   {
     "id": 59,
     "name": "Steak Boiled in Sugar",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -474,7 +474,7 @@
   {
     "id": 60,
     "name": "Thickle aka Pickle Jello",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -482,7 +482,7 @@
   {
     "id": 61,
     "name": "Pizza stuffed Pancake",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -490,7 +490,7 @@
   {
     "id": 62,
     "name": "Carbonated Ketchup",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -498,7 +498,7 @@
   {
     "id": 63,
     "name": "Deep-Fried Steak Bowl",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -506,7 +506,7 @@
   {
     "id": 64,
     "name": "Froot Loops Spaghetti",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -514,7 +514,7 @@
   {
     "id": 65,
     "name": "Skittles Steak / Skittles Apple",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -522,7 +522,7 @@
   {
     "id": 66,
     "name": "Cocoa Puffs Pizza",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -530,7 +530,7 @@
   {
     "id": 67,
     "name": "Deep-Fried Corn",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -538,7 +538,7 @@
   {
     "id": 68,
     "name": "Steak Baked inside of an Onion",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -546,7 +546,7 @@
   {
     "id": 69,
     "name": "Orange Juice Spaghetti",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -554,7 +554,7 @@
   {
     "id": 70,
     "name": "Chicken Boiled in Nuclear Green Kool-Aid",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -562,7 +562,7 @@
   {
     "id": 71,
     "name": "Deep Frying a Tomato for an Hour",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -570,7 +570,7 @@
   {
     "id": 72,
     "name": "Steak Boiled in Chocolate",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -578,7 +578,7 @@
   {
     "id": 73,
     "name": "Steak Baked in a Bell Pepper",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -586,7 +586,7 @@
   {
     "id": 74,
     "name": "BBQ Chips Mashed Potatoes",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -594,7 +594,7 @@
   {
     "id": 75,
     "name": "Deep Fried Celery",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -602,7 +602,7 @@
   {
     "id": 76,
     "name": "Pink Lemonade Macaroni",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -610,7 +610,7 @@
   {
     "id": 77,
     "name": "Waffled Sweet and Sour Chicken",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -618,7 +618,7 @@
   {
     "id": 78,
     "name": "Steak Boiled in Sour Worms",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -626,7 +626,7 @@
   {
     "id": 79,
     "name": "The Entire Lemon Spaghetti",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -634,7 +634,7 @@
   {
     "id": 80,
     "name": "Steak Baked in a Pineapple",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -642,7 +642,7 @@
   {
     "id": 81,
     "name": "Liquid Smoke Spaghetti",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -650,7 +650,7 @@
   {
     "id": 82,
     "name": "Deep Frying a Potato for an Hour",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -658,7 +658,7 @@
   {
     "id": 83,
     "name": "Steak Boiled in Peanut Butter Cups",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -666,7 +666,7 @@
   {
     "id": 84,
     "name": "Lazy Frozen Meal Casserole",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -674,7 +674,7 @@
   {
     "id": 85,
     "name": "Candy Corn Steak",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -682,7 +682,7 @@
   {
     "id": 86,
     "name": "Deep Frying an Onion for an Hour",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -690,7 +690,7 @@
   {
     "id": 87,
     "name": "Soy Sauce Boiled Rice",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -698,7 +698,7 @@
   {
     "id": 88,
     "name": "Kentucky Shrimp Scampi",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -706,7 +706,7 @@
   {
     "id": 89,
     "name": "Deep Frying a Carrot for an Hour",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -714,7 +714,7 @@
   {
     "id": 90,
     "name": "Mustard Soda Spaghetti",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -722,7 +722,7 @@
   {
     "id": 91,
     "name": "Deep Frying a Hot Dog for an Hour",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -730,7 +730,7 @@
   {
     "id": 92,
     "name": "Deep Frying a $130 Wagyu Ribeye Steak for an Hour",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -738,7 +738,7 @@
   {
     "id": 93,
     "name": "Bacon Wrapped Donut",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -746,7 +746,7 @@
   {
     "id": 94,
     "name": "Pizza Soup",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -754,7 +754,7 @@
   {
     "id": 95,
     "name": "Steak Boiled in Jeppson's Malört",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -762,7 +762,7 @@
   {
     "id": 96,
     "name": "Deep-Fried Habanero",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -770,7 +770,7 @@
   {
     "id": 97,
     "name": "Sushi Soup",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -778,7 +778,7 @@
   {
     "id": 98,
     "name": "French Fry Mystery Sauce",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -786,7 +786,7 @@
   {
     "id": 99,
     "name": "Mustard Cake",
-    "rating": "0.5/5",
+    "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -794,7 +794,7 @@
   {
     "id": 100,
     "name": "Steak Baked Inside a Rotisserie Chicken",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -802,7 +802,7 @@
   {
     "id": 101,
     "name": "Deep Fried Cucumber",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -810,7 +810,7 @@
   {
     "id": 102,
     "name": "Sriracha Steak",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -818,7 +818,7 @@
   {
     "id": 103,
     "name": "Chicken Waffle",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -826,7 +826,7 @@
   {
     "id": 104,
     "name": "Wasabi Cake",
-    "rating": "1.5/5",
+    "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -834,7 +834,7 @@
   {
     "id": 105,
     "name": "Pop-Tarts Fried Chicken",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -842,7 +842,7 @@
   {
     "id": 106,
     "name": "Spaghetti Cooked in Hot Dog Water",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -850,7 +850,7 @@
   {
     "id": 107,
     "name": "Escargot Espresso",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -858,7 +858,7 @@
   {
     "id": 108,
     "name": "Thick Water Lobster",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -866,7 +866,7 @@
   {
     "id": 109,
     "name": "Steak Boiled in Old Fashioned Peppermint Candy",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -874,7 +874,7 @@
   {
     "id": 110,
     "name": "Deep Frying a Garlic Bulb for an Hour",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -882,7 +882,7 @@
   {
     "id": 111,
     "name": "Liquid Smoke Jello",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -890,7 +890,7 @@
   {
     "id": 112,
     "name": "Breakfast Stuffed Bread (NSE)",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -898,7 +898,7 @@
   {
     "id": 113,
     "name": "Cotton Candy Hot Dog",
-    "rating": "4.5/5",
+    "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -906,7 +906,7 @@
   {
     "id": 114,
     "name": "Thick Water Steak",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -914,7 +914,7 @@
   {
     "id": 115,
     "name": "Trix Cereal Fried Chicken",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -922,7 +922,7 @@
   {
     "id": 116,
     "name": "Baja Blast Scrambled Eggs",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -930,7 +930,7 @@
   {
     "id": 117,
     "name": "Chicken Boiled in Go-Gurt",
-    "rating": "4.5/5",
+    "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -938,7 +938,7 @@
   {
     "id": 118,
     "name": "SpaghettiOs Sandwich",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -946,7 +946,7 @@
   {
     "id": 119,
     "name": "Steak Boiled in Skyline Chili",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -954,7 +954,7 @@
   {
     "id": 120,
     "name": "Slim Jim Burger",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -962,7 +962,7 @@
   {
     "id": 121,
     "name": "Meat Wellington",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -978,7 +978,7 @@
   {
     "id": 123,
     "name": "Deep Frying an Avocado for an Hour",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -986,7 +986,7 @@
   {
     "id": 124,
     "name": "Hot Dogger Steak",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -994,7 +994,7 @@
   {
     "id": 125,
     "name": "Skittle Bay Biscuits",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1002,7 +1002,7 @@
   {
     "id": 126,
     "name": "Deep Fried Gum",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1010,7 +1010,7 @@
   {
     "id": 127,
     "name": "Sous Vide Doritos Steak",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1018,7 +1018,7 @@
   {
     "id": 128,
     "name": "Rehydrated Steak",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1026,7 +1026,7 @@
   {
     "id": 129,
     "name": "Beef Jerky Fried Chicken",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1034,7 +1034,7 @@
   {
     "id": 130,
     "name": "Clamato Steak",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1042,7 +1042,7 @@
   {
     "id": 131,
     "name": "SlimFast Pork Chop",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1050,7 +1050,7 @@
   {
     "id": 132,
     "name": "KFC Soup",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1058,7 +1058,7 @@
   {
     "id": 133,
     "name": "Deep-Fried Skittles",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1066,7 +1066,7 @@
   {
     "id": 134,
     "name": "Deep Fried Tacos",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1074,7 +1074,7 @@
   {
     "id": 135,
     "name": "Deep Fryed Lobster Tail",
-    "rating": "DQ'ed",
+    "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1082,7 +1082,7 @@
   {
     "id": 136,
     "name": "Lobster Popsicle",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1090,7 +1090,7 @@
   {
     "id": 137,
     "name": "Lobster Boiled in Maple Syrup",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1098,7 +1098,7 @@
   {
     "id": 138,
     "name": "Zero Carb Powdered Egg Fried Chicken",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1106,7 +1106,7 @@
   {
     "id": 139,
     "name": "Hot Dog Bacon",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1114,7 +1114,7 @@
   {
     "id": 140,
     "name": "Crab Legs Boiled in Mountain Dew",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1122,7 +1122,7 @@
   {
     "id": 141,
     "name": "McDonald's $5 Meal Soup",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1130,7 +1130,7 @@
   {
     "id": 142,
     "name": "Deep Fried Leftover Chinese Beef and Broccoli Cube",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1138,7 +1138,7 @@
   {
     "id": 143,
     "name": "Taco Bell $7 Luxe Box Soup",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1146,7 +1146,7 @@
   {
     "id": 144,
     "name": "S'more Stuffed Steak",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1154,7 +1154,7 @@
   {
     "id": 145,
     "name": "Deep Fried Cookie Dough",
-    "rating": "DQ'ed",
+    "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1162,7 +1162,7 @@
   {
     "id": 146,
     "name": "Mega Hot Dog",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1170,7 +1170,7 @@
   {
     "id": 147,
     "name": "Spaghetti Boiled in Italian Dressing",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1178,7 +1178,7 @@
   {
     "id": 148,
     "name": "My Entire Lunch Boiled in Mountain Dew Code Red",
-    "rating": "1.5/5",
+    "rating": 1.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1186,7 +1186,7 @@
   {
     "id": 149,
     "name": "Coffee Filter Steak",
-    "rating": "0.5/5",
+    "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1194,7 +1194,7 @@
   {
     "id": 150,
     "name": "Microwaved Apple",
-    "rating": "DQ'ed",
+    "rating": "Disqualified",
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1202,7 +1202,7 @@
   {
     "id": 151,
     "name": "Waffled Chicago Hot Dog",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1210,7 +1210,7 @@
   {
     "id": 152,
     "name": "Arby's Beef 'N Cheddar Soup",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1218,7 +1218,7 @@
   {
     "id": 153,
     "name": "Deep Frying Artichoke for an Hour",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1226,7 +1226,7 @@
   {
     "id": 154,
     "name": "Steak Boiled in Jolly Ranchers",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1234,7 +1234,7 @@
   {
     "id": 155,
     "name": "Panda Express Orange Chicken Milkshake",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1242,7 +1242,7 @@
   {
     "id": 156,
     "name": "Deep Fried Cheetos",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1250,7 +1250,7 @@
   {
     "id": 157,
     "name": "Boiled Watermelon",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1258,7 +1258,7 @@
   {
     "id": 158,
     "name": "Lobster Tail Boiled in Baked Beans",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1266,7 +1266,7 @@
   {
     "id": 159,
     "name": "Avocado Steak",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1274,7 +1274,7 @@
   {
     "id": 160,
     "name": "Jello SpaghettiOs Mold",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1282,7 +1282,7 @@
   {
     "id": 161,
     "name": "Liquid Smoke Milkshake",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1290,7 +1290,7 @@
   {
     "id": 162,
     "name": "Deep Frying a Pumpkin for an Hour",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1298,7 +1298,7 @@
   {
     "id": 163,
     "name": "Drinkable Sausage",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1306,7 +1306,7 @@
   {
     "id": 164,
     "name": "Hairdryer Steak",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1314,7 +1314,7 @@
   {
     "id": 165,
     "name": "Sausage Ice Cream",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1322,7 +1322,7 @@
   {
     "id": 166,
     "name": "Aloe Vera Noodles",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1330,7 +1330,7 @@
   {
     "id": 167,
     "name": "Deep Fried Log of Cookie Dough",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1338,7 +1338,7 @@
   {
     "id": 168,
     "name": "Frozen Pizza Spaghetti Sauce",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1346,7 +1346,7 @@
   {
     "id": 169,
     "name": "Black Liquorice Steak",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1354,7 +1354,7 @@
   {
     "id": 170,
     "name": "Chicken Orb",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1362,7 +1362,7 @@
   {
     "id": 171,
     "name": "Anchovy Ice Cream",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1370,7 +1370,7 @@
   {
     "id": 172,
     "name": "Louisiana Hot Sauce Hard Boiled Eggs",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1378,7 +1378,7 @@
   {
     "id": 173,
     "name": "Dehydrated Bowl of Cereal",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1386,7 +1386,7 @@
   {
     "id": 174,
     "name": "Steak Boiled in Clarified Butter",
-    "rating": "6/5",
+    "rating": 6.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1394,7 +1394,7 @@
   {
     "id": 175,
     "name": "Deep Fried Cat Food",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1402,7 +1402,7 @@
   {
     "id": 176,
     "name": "Pop-Tart BLT",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1410,7 +1410,7 @@
   {
     "id": 177,
     "name": "Steak Boiled In Cool Whip",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1418,7 +1418,7 @@
   {
     "id": 178,
     "name": "Italian Hot Dogs",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1426,7 +1426,7 @@
   {
     "id": 179,
     "name": "Deep Fried Butter",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1434,7 +1434,7 @@
   {
     "id": 180,
     "name": "Arby's Sauce Pot Roast",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1442,7 +1442,7 @@
   {
     "id": 181,
     "name": "Deep Fried Coffee",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1450,7 +1450,7 @@
   {
     "id": 182,
     "name": "McRib Chowder",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1458,7 +1458,7 @@
   {
     "id": 183,
     "name": "Homemade Butter",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1466,7 +1466,7 @@
   {
     "id": 184,
     "name": "Nerds Scrambled Eggs",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1474,7 +1474,7 @@
   {
     "id": 185,
     "name": "Pickle Pancakes",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1482,7 +1482,7 @@
   {
     "id": 186,
     "name": "Steak Boiled in Honey Mustard",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1490,7 +1490,7 @@
   {
     "id": 187,
     "name": "Deep Fried Onion Ball",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1498,7 +1498,7 @@
   {
     "id": 188,
     "name": "Oreo Omlette",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1506,7 +1506,7 @@
   {
     "id": 189,
     "name": "Meat Cookie",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1514,7 +1514,7 @@
   {
     "id": 190,
     "name": "Deep Fried Linguine",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1522,7 +1522,7 @@
   {
     "id": 191,
     "name": "Cooking a Lobster Tail with a Hairdryer",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1530,7 +1530,7 @@
   {
     "id": 192,
     "name": "Onion Ring Cookies",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1538,7 +1538,7 @@
   {
     "id": 193,
     "name": "Steak Boiled in Gusher's Fruit Snacks",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1546,7 +1546,7 @@
   {
     "id": 194,
     "name": "Improved Hot Dogs",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1554,7 +1554,7 @@
   {
     "id": 195,
     "name": "One Pound Deep Fried Brick of Cheese",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1562,7 +1562,7 @@
   {
     "id": 196,
     "name": "Steak Boiled in Onion Mush",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1570,7 +1570,7 @@
   {
     "id": 197,
     "name": "Carbonated Jello",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1578,7 +1578,7 @@
   {
     "id": 198,
     "name": "Steak Boiled in Garlic Slush",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1586,7 +1586,7 @@
   {
     "id": 199,
     "name": "Deep Fried White Castles",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1594,7 +1594,7 @@
   {
     "id": 200,
     "name": "Starbucks Boiled Chicken",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1602,7 +1602,7 @@
   {
     "id": 201,
     "name": "A1 Steak Sauce Ice Cream",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1610,7 +1610,7 @@
   {
     "id": 202,
     "name": "Deep Fried SpongeBob SquarePants Popsicle",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1618,7 +1618,7 @@
   {
     "id": 203,
     "name": "Miller High Life Gravy",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1626,7 +1626,7 @@
   {
     "id": 204,
     "name": "Steak Boiled in Cherry Pie Filling",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1634,7 +1634,7 @@
   {
     "id": 205,
     "name": "Guinness Jello",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1642,7 +1642,7 @@
   {
     "id": 206,
     "name": "Steak Boiled in Cabbage Mush",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1650,7 +1650,7 @@
   {
     "id": 207,
     "name": "Deep-Fried Baked Potato",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1658,7 +1658,7 @@
   {
     "id": 208,
     "name": "Waffled Skyline Chili",
-    "rating": "3/5",
+    "rating": 3.0,
     
     "episode": "Waffled Skyline Chili",
     "episodeID": "LxF2ZaxFlPQ",
@@ -1667,7 +1667,7 @@
   {
     "id": 209,
     "name": "Steak Boiled In Cilantro Mush",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1675,7 +1675,7 @@
   {
     "id": 210,
     "name": "Dehydrated Onion Fried Chicken",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1683,7 +1683,7 @@
   {
     "id": 211,
     "name": "Chocolate Dipped Ravioli",
-    "rating": "2/5",
+    "rating": 2.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1691,7 +1691,7 @@
   {
     "id": 212,
     "name": "Recarbonated Flat Diet Coke",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1699,7 +1699,7 @@
   {
     "id": 213,
     "name": "Tarantula Ice Cream",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1707,7 +1707,7 @@
   {
     "id": 214,
     "name": "Deep Fried Deep Dish Pizza",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1715,7 +1715,7 @@
   {
     "id": 215,
     "name": "Steak Boiled in Ketchup",
-    "rating": "3.5/5",
+    "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1723,7 +1723,7 @@
   {
     "id": 216,
     "name": "Candied Fried Chicken",
-    "rating": "4.5/5",
+    "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1731,7 +1731,7 @@
   {
     "id": 217,
     "name": "Deep Fried Chipotle Burrito",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1739,7 +1739,7 @@
   {
     "id": 218,
     "name": "Steak Boiled in Sour Patch Kids",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1747,7 +1747,7 @@
   {
     "id": 219,
     "name": "Coffee Poached Eggs",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1755,7 +1755,7 @@
   {
     "id": 220,
     "name": "New Banana Steak",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1763,7 +1763,7 @@
   {
     "id": 221,
     "name": "Deep Fried Log O Sausage",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1771,7 +1771,7 @@
   {
     "id": 222,
     "name": "Jolly Rancher Breaded Chicken",
-    "rating": "0.5/5",
+    "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1779,7 +1779,7 @@
   {
     "id": 223,
     "name": "Steak Boiled in Arby's Horsey Sauce",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1787,7 +1787,7 @@
   {
     "id": 224,
     "name": "His Toaster Oven Hamburgers",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1795,7 +1795,7 @@
   {
     "id": 225,
     "name": "Shell On Hard Boiled Egg Deep Fried for Fifthteen Minutes",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1803,7 +1803,7 @@
   {
     "id": 226,
     "name": "Shell On Hard Boiled Egg Deep Fried for Thirty Minutes",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1811,7 +1811,7 @@
   {
     "id": 227,
     "name": "Shell On Hard Boiled Egg Deep Fried for an Hour",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1819,7 +1819,7 @@
   {
     "id": 228,
     "name": "Sushi Smash Burger",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1827,7 +1827,7 @@
   {
     "id": 229,
     "name": "Deep Fried Refried Beans",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1835,7 +1835,7 @@
   {
     "id": 230,
     "name": "Blender Bacon",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1843,7 +1843,7 @@
   {
     "id": 231,
     "name": "Choco Pickle",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1851,7 +1851,7 @@
   {
     "id": 232,
     "name": "Blender Steak",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1859,7 +1859,7 @@
   {
     "id": 233,
     "name": "Carbonated Tuna Fish",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1867,7 +1867,7 @@
   {
     "id": 234,
     "name": "Chicken Chopped Salad that he hates making",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1875,7 +1875,7 @@
   {
     "id": 235,
     "name": "Steak Boiled in Flamin' Hot Cheetos",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1883,7 +1883,7 @@
   {
     "id": 236,
     "name": "Monster Energy and Skittle Pancakes",
-    "rating": "3/5",
+    "rating": 3.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1891,7 +1891,7 @@
   {
     "id": 237,
     "name": "Onion Mushed Potatoes",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1899,7 +1899,7 @@
   {
     "id": 238,
     "name": "Uncrustable Stuffed Burger",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1907,7 +1907,7 @@
   {
     "id": 239,
     "name": "Guinness Waffles",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1915,7 +1915,7 @@
   {
     "id": 240,
     "name": "Batter Fried Arby's Beef 'N Cheddar",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1923,7 +1923,7 @@
   {
     "id": 241,
     "name": "Filet O Fish Stuffed Burgers",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1931,7 +1931,7 @@
   {
     "id": 242,
     "name": "Waffled Fries",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1939,7 +1939,7 @@
   {
     "id": 243,
     "name": "Steak Boiled in Cinnamon Toast Crunch",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1947,7 +1947,7 @@
   {
     "id": 244,
     "name": "Giant Pork Tenderloin Sandwich",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1955,7 +1955,7 @@
   {
     "id": 245,
     "name": "Deep Fried Rice Crispy Treats",
-    "rating": "7/5",
+    "rating": 7.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1963,7 +1963,7 @@
   {
     "id": 246,
     "name": "Wendy's Store Bought Beef Patties Burger",
-    "rating": "3.5/5",
+    "rating": 3.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1979,7 +1979,7 @@
   {
     "id": 248,
     "name": "Waffled Corn Dogs",
-    "rating": "4/5",
+    "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1987,7 +1987,7 @@
   {
     "id": 249,
     "name": "Egg Hand",
-    "rating": "1/5",
+    "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -1995,7 +1995,7 @@
   {
     "id": 250,
     "name": "Grape Soda Alfredo",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -2003,7 +2003,7 @@
   {
     "id": 251,
     "name": "Corndogged Tomahawk Ribeye",
-    "rating": "0/5",
+    "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -2011,7 +2011,7 @@
   {
     "id": 252,
     "name": "Big Mac Deviled Eggs",
-    "rating": "4.5/5",
+    "rating": 4.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -2019,7 +2019,7 @@
   {
     "id": 253,
     "name": "Spaghetti Slices",
-    "rating": "5/5",
+    "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -2027,7 +2027,7 @@
   {
     "id": 254,
     "name": "Steak Boiled in Selena Gomez Oreos",
-    "rating": "2.5/5",
+    "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
@@ -2035,7 +2035,7 @@
   {
     "id": 255,
     "name": "Deep Fried Bacon Slab",
-    "rating": "0.5/5",
+    "rating": 0.5,
     "date": "March 3rd, 2020",
     "description": "",
     "image": ""
