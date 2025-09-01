@@ -81,8 +81,8 @@ function startRound() {
   });
 }
 
-// ---- Load foods.json then start game ----
-fetch("foods.json")
+// ---- Load sausages.json then start game ----
+fetch("sausages.json")
   .then(response => response.json())
   .then(data => {
     foods = data;
@@ -90,9 +90,10 @@ fetch("foods.json")
     startRound();
   })
   .catch(err => {
-    console.error("Failed to load foods.json", err);
+    console.error("Failed to load sausages.json", err);
     document.getElementById("result").textContent = "Error loading food data.";
   });
+
 
 
 
