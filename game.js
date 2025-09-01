@@ -71,9 +71,34 @@ function startRound() {
   document.getElementById("result").textContent = `Round ${round + 1} of 10`;
 
   [f1, f2].forEach(food => {
+
+    // Card container
+    const card = document.createElement("div");
+    card.className = "food-card";
+
+    // Food name (always visible, above)
+    const title = document.createElement("div");
+    title.className = "food-name";
+    title.textContent = food.name;
+    
+    //Upload image
+    const img = document.createElement("img");
+    img.src = `${food.source}/${food.id}.png`;
+    img.onerror = () => { img.src = "images/0.png"; };
+
+     // Overlay text (hidden until click)
+    const overlay = document.createElement("div");
+    overlay.className = "overlay";
+    overlay.textContent = ""; // starts empty
+    
     const btn = document.createElement("button");
     btn.className = "choice";
     btn.textContent = food.name;
+
+    card.appendChild(title);
+    card.appendChild(img);
+    card.appendChild(overlay);
+    
     btn.onclick = () => {
       const f1Rating = getNumericRating(f1);
       const f2Rating = getNumericRating(f2);
@@ -106,6 +131,7 @@ Promise.all([
   foods = [...sausagesData, ...nsesData];
   startRound();
 });
+
 
 
 
