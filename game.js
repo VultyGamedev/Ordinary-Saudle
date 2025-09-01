@@ -95,18 +95,18 @@ function startRound() {
 
 // ---- Load the food jsons then start game ----
 Promise.all([
-  fetch("sausages.json").then(res => res.json()).then(data =>
-    data.map(f => ({ ...f, source: "sausages" }))
-  ),
-  fetch("nses.json").then(res => res.json()).then(data =>
-    data.map(f => ({ ...f, source: "nses" }))
-  )
+  fetch("sausages.json").then(res => res.json()),
+  fetch("nses.json").then(res => res.json())
 ])
 .then(([sausagesData, nsesData]) => {
   foods = [...sausagesData, ...nsesData];
+  dailyPairs = generateDailyPairs();
   startRound();
+})
+.catch(err => {
+  console.error("Failed to load JSON files", err);
+  document.getElementById("result").textContent = "Error loading food data.";
 });
-
 
 
 
