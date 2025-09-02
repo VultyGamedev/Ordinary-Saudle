@@ -1,27 +1,23 @@
-#choices {
+.choice-container {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
-  gap: 16px;
+  align-items: center;
+  gap: 20px;              /* space between images */
+  flex-wrap: wrap;        /* allows stacking on small screens */
 }
 
 .choice {
-  flex: 1 1 45%; 
-  max-width: 400px; 
-  min-width: 200px; 
+  flex: 1 1 45%;          /* take about half the width */
+  max-width: 45%;         /* cap so they don’t get too big */
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 10px;
-  border: none;
-  background: transparent;
-  cursor: pointer;
 }
 
 .choice img {
-  width: 100%;
-  height: auto;
-  border-radius: 12px;
-  object-fit: contain;
+  width: 100%;            /* scale to container width */
+  height: auto;           /* maintain aspect ratio */
+  object-fit: contain;    /* keep whole image visible */
+  border-radius: 10px;    /* optional rounded corners */
 }
 
