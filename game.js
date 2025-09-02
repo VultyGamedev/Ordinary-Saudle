@@ -23,16 +23,7 @@ function getDailySeed() {
 }
 
 function getNumericRating(food) {
-  if (food.rating === "disqualified") {
-    return -0.5; // treat disqualified sausages as less than 0 but more than -1
-  }
-  if (food.rating === "Failure") {
-    return -0.5; // also treat failures as worse than 0
-  }
-  if (food.rating === "NO!") {
-    return -0.5;
-  }
-  if (food.rating === "No Rating") {
+  if (food.rating === "disqualified" || food.rating === "Failure" || food.rating === "NO!" || food.rating === "No Rating") {
     return -0.5;
   }
   if (food.rating === "YES!") {
@@ -107,6 +98,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
