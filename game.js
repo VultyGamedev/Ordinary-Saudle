@@ -76,7 +76,7 @@ function startRound() {
     // Image
     const img = document.createElement("img");
     img.src = food.image || "images/0.png";
-    img.width = 200; // or whatever size you want
+    img.width = 500; // or whatever size you want
     img.onerror = () => { img.src = "images/0.png"; }; // fallback
     img.style.cursor = "pointer";
 
@@ -116,6 +116,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
