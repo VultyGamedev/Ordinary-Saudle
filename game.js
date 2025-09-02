@@ -1,5 +1,6 @@
 let foods = [];
 let dailyPairs = [];
+let resultsHistory = [];
 let round = 0;
 let score = 0;
 
@@ -115,6 +116,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
