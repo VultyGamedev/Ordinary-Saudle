@@ -62,25 +62,27 @@ function startRound() {
   document.getElementById("result").textContent = `Round ${round + 1} of 10`;
 
   [f1, f2].forEach(food => {
-    const choiceDiv = document.createElement("div");
-    choiceDiv.style.display = "inline-block";
-    choiceDiv.style.margin = "20px";
-    choiceDiv.style.textAlign = "center";
+    const btn = document.createElement("button");
+    btn.className = "choice";
 
-    // Name
+    // Food name above image
     const nameEl = document.createElement("div");
     nameEl.textContent = food.name;
     nameEl.style.marginBottom = "10px";
-    choiceDiv.appendChild(nameEl);
+    btn.appendChild(nameEl);
 
     // Image
-    const img = document.createElement("img");
-    img.src = food.image || "images/0.png";
-    img.width = 500; // or whatever size you want
-    img.onerror = () => { img.src = "images/0.png"; }; // fallback
-    img.style.cursor = "pointer";
+    const imgEl = document.createElement("img");
+    imgEl.src = food.image;
+    imgEl.alt = food.name;
+    imgEl.style.width = "400px"; // adjust size as needed
+    imgEl.style.height = "400px";
+    imgEl.style.cursor = "pointer";
+    imgEl.onerror = () => { imgEl.src = "images/0.png"; };
 
-    img.onclick = () => {
+    btn.appendChild(imgEl);
+
+    btn.onclick = () => {
       const f1Rating = getNumericRating(f1);
       const f2Rating = getNumericRating(f2);
 
@@ -95,12 +97,9 @@ function startRound() {
       round++;
       setTimeout(startRound, 1500);
     };
-
-    choiceDiv.appendChild(img);
-    container.appendChild(choiceDiv);
+    container.appendChild(btn);
   });
 }
-
 
 // ---- Load the food jsons then start game ----
 Promise.all([
@@ -116,8 +115,6 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
-
-
 
 
 
