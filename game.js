@@ -95,7 +95,7 @@ function startRound() {
           `❌ Wrong! (${f1.name}: ${f1.rating}, ${f2.name}: ${f2.rating}) | Score: ${score}`;
       }
       round++;
-      setTimeout(startRound, 1500);
+      setTimeout(startRound, 5000);
     };
     container.appendChild(btn);
   });
@@ -115,6 +115,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
