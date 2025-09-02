@@ -73,9 +73,10 @@ function startRound() {
 
     // Image
     const imgEl = document.createElement("img");
-    imgEl.src = food.image; //|| "images/0.png";
-    imgEl.style.width = "400px";
-    imgEl.style.height = "400px";
+    const folder = food.source === "sausages" ? "images/sausages/" : "images/nses/";
+    imgEl.src = folder + food.image;
+    imgEl.style.width = "200px";
+    imgEl.style.height = "200px";
     imgEl.style.objectFit = "contain";
 
     // fallback if image not found
@@ -118,6 +119,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
