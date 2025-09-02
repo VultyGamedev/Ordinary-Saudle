@@ -64,7 +64,27 @@ function startRound() {
   [f1, f2].forEach(food => {
     const btn = document.createElement("button");
     btn.className = "choice";
-    btn.textContent = food.name;
+
+    // Food name above image
+    const nameEl = document.createElement("div");
+    nameEl.textContent = food.name;
+    nameEl.style.marginBottom = "10px";
+    btn.appendChild(nameEl);
+
+    // Image
+    const imgEl = document.createElement("img");
+    imgEl.src = food.image || "images/0.png";
+    imgEl.style.width = "200px";
+    imgEl.style.height = "200px";
+    imgEl.style.objectFit = "contain";
+
+    // fallback if image not found
+    imgEl.onerror = () => {
+      imgEl.src = "images/0.png";
+    };
+
+    btn.appendChild(imgEl);
+
     btn.onclick = () => {
       const f1Rating = getNumericRating(f1);
       const f2Rating = getNumericRating(f2);
@@ -98,6 +118,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
