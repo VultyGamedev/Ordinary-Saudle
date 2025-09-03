@@ -138,13 +138,6 @@ function endGame() {
   resultDiv.appendChild(copyBtn);
 }
 
-// Modify your guess checking
-function handleGuess(chosen, other) {
-  const correct = chosen.score >= other.score;
-  resultsHistory.push({ correct }); // store result
-  // ... rest of your logic
-}
-
 // ---- Load the food jsons then start game ----
 Promise.all([
   fetch("sausages.json").then(res => res.json()),
@@ -159,6 +152,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
