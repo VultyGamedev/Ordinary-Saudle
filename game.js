@@ -126,11 +126,11 @@ function endGame() {
   const today = new Date();
   const formattedDate = today.toISOString().split("T")[0]; // yyyy-mm-dd
   resultsString += ` | ${formattedDate}`;
-  
-  resultsString += ` | https://www.ordinarysaudle.com`;
 
   resultDiv.innerHTML = resultsString;
   
+  resultsString += ` | https://www.ordinarysaudle.com`;
+
   // Display copy button
   const copyBtn = document.createElement("button");
   copyBtn.textContent = "Copy Results";
@@ -159,6 +159,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
