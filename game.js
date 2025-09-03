@@ -114,7 +114,6 @@ function endGame() {
   choicesDiv.innerHTML = "";
 
   const resultDiv = document.getElementById("result");
-  resultDiv.innerHTML = `Game over! You scored ${score}/${round} 🎉`;
 
   // Build results string
   let resultsString = "";
@@ -160,6 +159,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
