@@ -122,7 +122,7 @@ function endGame() {
     resultsString += r.correct ? "🟩" : "🟥";
   }
 
-  resultsString += `${score}/${round}`;
+  resultsString += `${score}/ ${round}`;
 
   const today = new Date();
   const formattedDate = today.toISOString().split("T")[0]; // yyyy-mm-dd
@@ -158,6 +158,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
