@@ -122,7 +122,7 @@ function endGame() {
     resultsString += r.correct ? "🟩" : "🟥";
   }
 
-  resultsString += `${score}/ ${round}`;
+  resultsString += ` ${score}/${round}`;
 
   const today = new Date();
   const formattedDate = today.toISOString().split("T")[0]; // yyyy-mm-dd
@@ -130,6 +130,8 @@ function endGame() {
   
   resultsString += ` | https://www.ordinarysaudle.com`;
 
+  resultDiv.innerHTML = resultsString;
+  
   // Display copy button
   const copyBtn = document.createElement("button");
   copyBtn.textContent = "Copy Results";
@@ -158,6 +160,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
