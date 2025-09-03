@@ -83,10 +83,6 @@ function startRound() {
     btn.onclick = () => {
       const f1Rating = getNumericRating(f1);
       const f2Rating = getNumericRating(f2);
-
-      const isCorrect = getNumericRating(selectedFood) > (selectedFood === f1 ? f2Rating : f1Rating);
-
-      resultsHistory.push({ correct: isCorrect });
       
       if (getNumericRating(food) > (food === f1 ? f2Rating : f1Rating)) {
         score++;
@@ -152,6 +148,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
