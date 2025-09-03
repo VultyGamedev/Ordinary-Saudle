@@ -51,10 +51,7 @@ function generateDailyPairs() {
 
 function startRound() {
   if (round >= 10) {
-    document.getElementById("choices").innerHTML = "";
-    document.getElementById("result").textContent =
-      `🎉 You finished! Final Score: ${score}/10`;
-    return;
+    endGame();
   }
 
   const [f1, f2] = dailyPairs[round];
@@ -102,6 +99,44 @@ function startRound() {
   });
 }
 
+function endGame() {
+  const choicesDiv = document.getElementById("choices");
+  choicesDiv.innerHTML = "";
+
+  const resultDiv = document.getElementById("result");
+  resultDiv.innerHTML = `Game over! You scored ${score}/${round} 🎉`;
+
+  // Build results string
+  let resultsString = "";
+  for (let r of resultsHistory) {
+    resultsString += r.correct ? "🟩" : "🟥"; // green = correct, red = wrong
+  }
+
+  // Add score
+  resultsString += `\n${score}/${round}`;
+
+  // Add date
+  const today = new Date();
+  const formattedDate = today.toISOString().split("T")[0]; // yyyy-mm-dd
+  resultsString += ` | ${formattedDate}`;
+
+  // Add website
+  resultsString += ` | https://www.ordinarysaudle.com`;
+
+  // Display copy button
+  const copyBtn = document.createElement("button");
+  copyBtn.textContent = "Copy Results";
+  copyBtn.style.marginTop = "20px";
+  copyBtn.onclick = () => {
+    navigator.clipboard.writeText(resultsString).then(() => {
+      alert("Results copied!");
+    });
+  };
+
+  resultDiv.appendChild(document.createElement("br"));
+  resultDiv.appendChild(copyBtn);
+}
+
 // ---- Load the food jsons then start game ----
 Promise.all([
   fetch("sausages.json").then(res => res.json()),
@@ -116,6 +151,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
