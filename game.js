@@ -108,20 +108,15 @@ function endGame() {
 
   // Build results string
   let resultsString = "";
-  for (let r of resultsHistory) {
+
+  resultsHistory.forEach (r => {
     resultsString += r.correct ? "🟩" : "🟥"; // green = correct, red = wrong
-  }
+  });
 
   // Add score
-  resultsString += `\n${score}/${round}`;
-
-  // Add date
-  const today = new Date();
-  const formattedDate = today.toISOString().split("T")[0]; // yyyy-mm-dd
-  resultsString += ` | ${formattedDate}`;
-
-  // Add website
-  resultsString += ` | https://www.ordinarysaudle.com`;
+  const score = `${resultsHistory.filter(r => r.correct).length}/${resultsHistory.length}`;
+  const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+  resultsString += `\n${score} | ${today} | https://www.ordinarysaudle.com`;
 
   // Display copy button
   const copyBtn = document.createElement("button");
@@ -151,6 +146,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
