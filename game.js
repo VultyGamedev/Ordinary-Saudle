@@ -52,6 +52,7 @@ function generateDailyPairs() {
 function startRound() {
   if (round >= 10) {
     endGame();
+    return; 
   }
 
   const [f1, f2] = dailyPairs[round];
@@ -81,10 +82,16 @@ function startRound() {
     btn.appendChild(imgEl);
 
     btn.onclick = () => {
+      document.querySelectorAll(".choice").forEach(b => b.disabled = true);
+
       const f1Rating = getNumericRating(f1);
       const f2Rating = getNumericRating(f2);
-      
-      if (getNumericRating(food) > (food === f1 ? f2Rating : f1Rating)) {
+
+      const isCorrect = getNumericRating(food) > (food === f1 ? f2Rating : f1Rating);
+
+      resultsHistory.push({ correct: isCorrect });
+
+      if (isCorrect) {
         score++;
         document.getElementById("result").textContent =
           `✅ Correct! (${f1.name}: ${f1.rating}, ${f2.name}: ${f2.rating}) | Score: ${score}`;
@@ -92,12 +99,15 @@ function startRound() {
         document.getElementById("result").textContent =
           `❌ Wrong! (${f1.name}: ${f1.rating}, ${f2.name}: ${f2.rating}) | Score: ${score}`;
       }
+
       round++;
       setTimeout(startRound, 3000);
     };
+
     container.appendChild(btn);
   });
 }
+
 
 function endGame() {
   const choicesDiv = document.getElementById("choices");
@@ -148,6 +158,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
