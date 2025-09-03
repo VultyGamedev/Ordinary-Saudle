@@ -24,7 +24,7 @@ function getDailySeed() {
 }
 
 function getNumericRating(food) {
-  if (food.rating === "disqualified" || food.rating === "Failure" || food.rating === "NO!" || food.rating === "No Rating") {
+  if (food.rating === "Disqualified" || food.rating === "Failure" || food.rating === "NO!" || food.rating === "No Rating") {
     return -0.5;
   }
   if (food.rating === "YES!") {
@@ -151,6 +151,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
