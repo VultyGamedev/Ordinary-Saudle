@@ -84,6 +84,10 @@ function startRound() {
       const f1Rating = getNumericRating(f1);
       const f2Rating = getNumericRating(f2);
 
+      const isCorrect = getNumericRating(selectedFood) > (selectedFood === f1 ? f2Rating : f1Rating);
+
+      resultsHistory.push({ correct: isCorrect });
+      
       if (getNumericRating(food) > (food === f1 ? f2Rating : f1Rating)) {
         score++;
         document.getElementById("result").textContent =
@@ -108,15 +112,17 @@ function endGame() {
 
   // Build results string
   let resultsString = "";
+  for (let r of resultsHistory) {
+    resultsString += r.correct ? "🟩" : "🟥";
+  }
 
-  resultsHistory.forEach (r => {
-    resultsString += r.correct ? "🟩" : "🟥"; // green = correct, red = wrong
-  });
+  resultsString += `\n${score}/${round}`;
 
-  // Add score
-  const score = `${resultsHistory.filter(r => r.correct).length}/${resultsHistory.length}`;
-  const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
-  resultsString += `\n${score} | ${today} | https://www.ordinarysaudle.com`;
+  const today = new Date();
+  const formattedDate = today.toISOString().split("T")[0]; // yyyy-mm-dd
+  resultsString += ` | ${formattedDate}`;
+  
+  resultsString += ` | https://www.ordinarysaudle.com`;
 
   // Display copy button
   const copyBtn = document.createElement("button");
@@ -130,6 +136,13 @@ function endGame() {
 
   resultDiv.appendChild(document.createElement("br"));
   resultDiv.appendChild(copyBtn);
+}
+
+// Modify your guess checking
+function handleGuess(chosen, other) {
+  const correct = chosen.score >= other.score;
+  resultsHistory.push({ correct }); // store result
+  // ... rest of your logic
 }
 
 // ---- Load the food jsons then start game ----
@@ -146,6 +159,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
