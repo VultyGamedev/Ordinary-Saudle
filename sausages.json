@@ -4646,7 +4646,16 @@
     "date": "March 3rd, 2020",
     "description": "",
     "image": "images/sausages/581.png"
+  },
+  {
+    "id": 582,
+    "name": "Sugar Free Gummy Bear Sausage",
+    "rating": 0.5,
+    "date": "September 5th, 2025",
+    "description": "",
+    "image": "images/sausages/582.png"
   }
 ]
+
 
 
