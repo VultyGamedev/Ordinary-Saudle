@@ -4654,8 +4654,17 @@
     "date": "September 5th, 2025",
     "description": "",
     "image": "images/sausages/582.png"
+  },
+  {
+    "id": 583,
+    "name": "Combat Ration from Spain Sausage",
+    "rating": 2.5,
+    "date": "September 12th, 2025",
+    "description": "",
+    "image": "images/sausages/583.png"
   }
 ]
+
 
 
 
