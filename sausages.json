@@ -2041,7 +2041,7 @@
   },
   {
     "id": 256,
-    "name": "Egg Nog Sausage Sausage",
+    "name": "Egg Nog Sausage",
     "rating": 0.0,
     "date": "March 3rd, 2020",
     "description": "",
@@ -3089,7 +3089,7 @@
   },
   {
     "id": 387,
-    "name": "Parmesan Chicken \"Pizza Style\" Sausage Sausage",
+    "name": "Parmesan Chicken \"Pizza Style\" Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
@@ -3345,7 +3345,7 @@
   },
   {
     "id": 419,
-    "name": "Peepsi Sausage Sausage",
+    "name": "Peepsi Sausage",
     "rating": 1.0,
     "date": "March 3rd, 2020",
     "description": "",
@@ -3449,7 +3449,7 @@
   },
   {
     "id": 432,
-    "name": "Italian Sausage Sausage",
+    "name": "Italian Sausage",
     "rating": 4.0,
     "date": "March 3rd, 2020",
     "description": "",
@@ -3753,7 +3753,7 @@
   },
   {
     "id": 470,
-    "name": "Gordon Ramsay Mushroom Risotto Sausage Sausage",
+    "name": "Gordon Ramsay Mushroom Risotto Sausage",
     "rating": 2.5,
     "date": "March 3rd, 2020",
     "description": "",
@@ -4009,7 +4009,7 @@
   },
   {
     "id": 502,
-    "name": "Kidneys Sausage Sausage",
+    "name": "Kidneys Sausage",
     "rating": 5.0,
     "date": "March 3rd, 2020",
     "description": "",
@@ -4664,7 +4664,6 @@
     "image": "images/sausages/583.png"
   }
 ]
-
 
 
 
