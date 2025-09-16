@@ -22,14 +22,6 @@
       margin-top: 50px; 
       flex-direction: column;
     }
-    .choice { 
-      display: flex;
-      flex-wrap: wrap;
-      margin: 20px; 
-      padding: 20px; 
-      font-size: 20px; 
-      cursor: pointer; 
-    }
 
     .center-card {
       margin: auto;
@@ -57,6 +49,37 @@
       cursor: pointer;
       transition: background 0.2s;
     }
+
+    #choices {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+
+    .choice {
+      flex: 1 1 45%;
+      max-width: 45%;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 0.5rem;
+      border-radius: 10px;
+      text-align: center;
+    }
+
+    @media (max-width: 768px) {
+      .choice{
+        flex: 1 1 100%;
+        max-width: 100%;
+      }
+    }
+
+    .choice img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      border-radius: 8px;
+    }
     
     .correct {
       background: lightgreen; 
@@ -75,6 +98,7 @@
   <script src="game.js"></script>
 </body>
 </html>
+
 
 
 
