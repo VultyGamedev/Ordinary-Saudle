@@ -67,18 +67,15 @@ function startRound() {
     // Food name above image
     const nameEl = document.createElement("div");
     nameEl.textContent = food.name;
-    nameEl.style.marginBottom = "10px";
+    nameEl.style.margin = "0.5rem 0";
     btn.appendChild(nameEl);
 
     // Image
     const imgEl = document.createElement("img");
     imgEl.src = food.image;
     imgEl.alt = food.name;
-    imgEl.style.width = "512px";
-    imgEl.style.height = "512px";
     imgEl.style.cursor = "pointer";
     imgEl.onerror = () => { imgEl.src = "images/0.png"; };
-
     btn.appendChild(imgEl);
 
     btn.onclick = () => {
@@ -159,6 +156,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
