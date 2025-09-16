@@ -2062,8 +2062,17 @@
     "date": "September 9th, 2025",
     "description": "",
     "image": "images/nses/258.png"
+  },
+  {
+    "id": 259,
+    "name": "Pringles Waffles",
+    "rating": 5.0,
+    "date": "September 14th, 2025",
+    "description": "",
+    "image": "images/nses/259.png"
   }
 ]
+
 
 
 
