@@ -128,11 +128,7 @@ function endGame() {
   
   resultsString += ` | https://www.ordinarysaudle.com`;
 
-  // Display copy button
-  const copyBtn = document.createElement("button");
-  copyBtn.textContent = "Copy Results";
-  copyBtn.style.marginTop = "20px";
-  copyBtn.onclick = () => {
+  document.getElementById("copyBtn").onclick = () => {
     navigator.clipboard.writeText(resultsString).then(() => {
       alert("Results copied!");
     });
@@ -156,6 +152,7 @@ Promise.all([
   console.error("Failed to load JSON files", err);
   document.getElementById("result").textContent = "Error loading food data.";
 });
+
 
 
 
