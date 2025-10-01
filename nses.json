@@ -2094,8 +2094,25 @@
     "date": "September 23rd, 2025",
     "description": "",
     "image": "images/nses/262.png"
+  },
+  {
+    "id": 263,
+    "name": "Homer Simpson's Moon Waffles",
+    "rating": 5.0,
+    "date": "September 28th, 2025",
+    "description": "",
+    "image": "images/nses/263.png"
+  },
+  {
+    "id": 264,
+    "name": "Cinnamon Toast Crunch Churros",
+    "rating": 1.0,
+    "date": "September 30th, 2025",
+    "description": "",
+    "image": "images/nses/264.png"
   }
 ]
+
 
 
 
