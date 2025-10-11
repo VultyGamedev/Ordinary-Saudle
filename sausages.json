@@ -4678,8 +4678,25 @@
     "date": "September 26th, 2025",
     "description": "",
     "image": "images/sausages/585.png"
+  },
+  {
+    "id": 586,
+    "name": "Just Wack-O Wax Lips Sausage",
+    "rating": 0.0,
+    "date": "October 10th, 2025",
+    "description": "",
+    "image": "images/sausages/586.png"
+  },
+  {
+    "id": 587,
+    "name": "Wack-O Wax Lips and Pork Sausage",
+    "rating": 0.0,
+    "date": "October 10th, 2025",
+    "description": "",
+    "image": "images/sausages/587.png"
   }
 ]
+
 
 
 
