@@ -2150,8 +2150,25 @@
     "date": "October 14th, 2025",
     "description": "",
     "image": "images/nses/269.png"
+  },
+  {
+    "id": 270,
+    "name": "Waffled Pumpkin Pie",
+    "rating": 4.0,
+    "date": "October 19th, 2025",
+    "description": "",
+    "image": "images/nses/270.png"
+  },
+  {
+    "id": 271,
+    "name": "Chicken Nugget Hand",
+    "rating": 5.0,
+    "date": "October 21st, 2025",
+    "description": "",
+    "image": "images/nses/271.png"
   }
 ]
+
 
 
 
