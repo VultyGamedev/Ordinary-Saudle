@@ -4702,8 +4702,17 @@
     "date": "October 17th, 2025",
     "description": "",
     "image": "images/sausages/588.png"
+  },
+  {
+    "id": 589,
+    "name": "Earthworm Beef Jerky Sausage",
+    "rating": 5.0,
+    "date": "October 24th, 2025",
+    "description": "",
+    "image": "images/sausages/589.png"
   }
 ]
+
 
 
 
