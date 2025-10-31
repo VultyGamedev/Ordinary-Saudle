@@ -4710,8 +4710,17 @@
     "date": "October 24th, 2025",
     "description": "",
     "image": "images/sausages/589.png"
+  },
+  {
+    "id": 590,
+    "name": "Halloween Candy Salad Sausage",
+    "rating": 1.0,
+    "date": "October 31st, 2025",
+    "description": "",
+    "image": "images/sausages/590.png"
   }
 ]
+
 
 
 
