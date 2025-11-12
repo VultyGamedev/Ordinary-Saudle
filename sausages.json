@@ -4718,8 +4718,17 @@
     "date": "October 31st, 2025",
     "description": "",
     "image": "images/sausages/590.png"
+  },
+  {
+    "id": 591,
+    "name": "Elmer's Glue Sausage",
+    "rating": 0.0,
+    "date": "Movember 7th, 2025",
+    "description": "",
+    "image": "images/sausages/591.png"
   }
 ]
+
 
 
 
