@@ -2182,8 +2182,41 @@
     "date": "October 28th, 2025",
     "description": "",
     "image": "images/nses/273.png"
+  },
+  {
+    "id": 274,
+    "name": "Shrimp Cocktail Cookies",
+    "rating": 0.0,
+    "date": "November 2nd, 2025",
+    "description": "",
+    "image": "images/nses/274.png"
+  },
+  {
+    "id": 275,
+    "name": "Waffled Thanksgiving Stuffing",
+    "rating": 5.0,
+    "date": "November 4th, 2025",
+    "description": "",
+    "image": "images/nses/275.png"
+  },
+  {
+    "id": 276,
+    "name": "Steak Boiled in Apple Cider Vinegar",
+    "rating": 5.0,
+    "date": "November 9th, 2025",
+    "description": "",
+    "image": "images/nses/276.png"
+  },
+  {
+    "id": 277,
+    "name": "Skittle Burger",
+    "rating": 0.0,
+    "date": "November 11th, 2025",
+    "description": "",
+    "image": "images/nses/277.png"
   }
 ]
+
 
 
 
