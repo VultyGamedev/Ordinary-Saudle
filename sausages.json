@@ -4723,7 +4723,7 @@
     "id": 591,
     "name": "Elmer's Glue Sausage",
     "rating": 0.0,
-    "date": "Movember 7th, 2025",
+    "date": "November 7th, 2025",
     "description": "",
     "image": "images/sausages/591.png"
   },
@@ -4731,7 +4731,7 @@
     "id": 592,
     "name": "Miso Sausage",
     "rating": 4.0,
-    "date": "Movember 14th, 2025",
+    "date": "November 14th, 2025",
     "description": "",
     "image": "images/sausages/592.png"
   },
@@ -4739,7 +4739,7 @@
     "id": 593,
     "name": "Lutefisk Sausage",
     "rating": 1.0,
-    "date": "Movember 21st, 2025",
+    "date": "November 21st, 2025",
     "description": "",
     "image": "images/sausages/593.png"
   },
@@ -4747,11 +4747,20 @@
     "id": 594,
     "name": "Iron Sausage (Supplements)",
     "rating": 0.0,
-    "date": "Movember 28th, 2025",
+    "date": "November 28th, 2025",
     "description": "",
     "image": "images/sausages/594.png"
+  },
+  {
+    "id": 595,
+    "name": "Liquid Fart Spray Sausage",
+    "rating": 0.0,
+    "date": "December 5th, 2025",
+    "description": "",
+    "image": "images/sausages/595.png"
   }
 ]
+
 
 
 
