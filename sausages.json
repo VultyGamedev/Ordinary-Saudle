@@ -4758,8 +4758,41 @@
     "date": "December 5th, 2025",
     "description": "",
     "image": "images/sausages/595.png"
+  },
+  {
+    "id": 596,
+    "name": "Cinnamon Challenlkfjlksdjflkje Sausage",
+    "rating": 2.5,
+    "date": "December 12th, 2025",
+    "description": "",
+    "image": "images/sausages/596.png"
+  },
+  {
+    "id": 597,
+    "name": "Confetti Cannon Sausage",
+    "rating": 2.0,
+    "date": "December 19th, 2025",
+    "description": "",
+    "image": "images/sausages/597.png"
+  },
+  {
+    "id": 598,
+    "name": "Heinz 57 Sausage",
+    "rating": 4.0,
+    "date": "December 26th, 2025",
+    "description": "",
+    "image": "images/sausages/598.png"
+  },
+  {
+    "id": 599,
+    "name": "Pomegranate Sausage",
+    "rating": 1.0,
+    "date": "January 2nd, 2026",
+    "description": "",
+    "image": "images/sausages/599.png"
   }
 ]
+
 
 
 
